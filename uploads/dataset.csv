@@ -1,0 +1,1001 @@
+ID,Song Name,Artist,BPM,Language,Mood Target,Stress Level,Pain Relief,Type,Duration,Evidence Based
+1,Happy,Coldplay,138,English,Mood Boost,Low,No,Devotional,4:01,No
+2,Believer,The Beatles,67,Korean,Sleep Aid,Low,No,Ambient,3:34,Yes
+3,Weightless,Adele,146,Korean,Period Pain Relief,High,Yes,Ambient,4:18,Partial
+4,Blinding Lights,Lady Gaga,52,Instrumental,Anxiety Relief,Medium,No,Lo-fi,7:06,Yes
+5,Ocean Eyes,The Weeknd,125,Tamil,Anxiety Relief,Medium,No,Pop,7:21,Yes
+6,Shallow,Yiruma,111,Tamil,Stress Relief,Medium,Yes,Devotional,8:20,No
+7,Shape of You,Lady Gaga,76,Instrumental,Sleep Aid,High,No,Pop,3:09,No
+8,Let It Be,Pharrell Williams,167,Instrumental,Anxiety Relief,Medium,Yes,Ambient,3:37,No
+9,Nuvole Bianche,Adele,130,Hindi,Depression Support,Low,Yes,Acoustic,3:14,No
+10,Let It Be,Adele,122,Tamil,Period Pain Relief,Medium,Yes,Acoustic,6:14,Yes
+11,Perfect,Lady Gaga,131,English,Depression Support,Low,Yes,Classical,7:26,Partial
+12,Shallow,Leonard Cohen,58,Tamil,Period Pain Relief,High,Yes,Acoustic,3:14,Partial
+13,Tum Hi Ho,Adele,119,Tamil,Sleep Aid,Medium,Yes,Devotional,2:47,Partial
+14,Ocean Eyes,Pharrell Williams,55,English,Sleep Aid,Low,No,Acoustic,2:23,Yes
+15,Believer,A R Rahman,87,English,Anxiety Relief,High,No,Lo-fi,2:17,Partial
+16,Ocean Eyes,The Beatles,54,Korean,Depression Support,Medium,No,Classical,2:44,Partial
+17,Someone Like You,Leonard Cohen,170,Instrumental,Period Pain Relief,Medium,Yes,Ambient,4:15,No
+18,Ocean Eyes,Leonard Cohen,91,Tamil,Sleep Aid,High,Yes,Classical,4:51,Partial
+19,River Flows in You,Billie Eilish,135,Tamil,Sleep Aid,Low,Yes,Devotional,2:31,No
+20,River Flows in You,A R Rahman,87,Tamil,Sleep Aid,Medium,No,Classical,4:04,No
+21,Raataan Lambiyan,Arijit Singh,119,Hindi,Sleep Aid,Low,No,Lo-fi,2:06,Partial
+22,Perfect,Pharrell Williams,123,Hindi,Sleep Aid,Medium,Yes,Devotional,2:16,No
+23,Someone Like You,Imagine Dragons,105,Instrumental,Anxiety Relief,Medium,Yes,Acoustic,4:48,Partial
+24,Blinding Lights,Imagine Dragons,94,Instrumental,Depression Support,Low,Yes,Pop,6:25,No
+25,Blinding Lights,Post Malone,130,Hindi,Depression Support,High,Yes,Devotional,8:43,No
+26,Nuvole Bianche,Yiruma,106,Hindi,Period Pain Relief,Medium,Yes,Devotional,6:23,No
+27,Sunflower,Ed Sheeran,152,English,Anxiety Relief,High,Yes,Classical,8:08,No
+28,Happy,Coldplay,92,Hindi,Sleep Aid,Low,Yes,Classical,8:52,Partial
+29,Kun Faya Kun,Billie Eilish,111,Korean,Sleep Aid,Medium,No,Pop,6:11,No
+30,A Sky Full of Stars,Yiruma,106,Instrumental,Period Pain Relief,Medium,Yes,Ambient,5:52,Yes
+31,Kun Faya Kun,Billie Eilish,66,Instrumental,Mood Boost,Low,Yes,Devotional,5:57,Partial
+32,Lovely,The Weeknd,156,Hindi,Period Pain Relief,Medium,Yes,Lo-fi,8:38,Yes
+33,Believer,A R Rahman,101,Hindi,Depression Support,High,Yes,Devotional,2:14,Yes
+34,Weightless,Coldplay,62,Instrumental,Mood Boost,High,No,Classical,8:52,Yes
+35,Kun Faya Kun,Billie Eilish,91,Hindi,Period Pain Relief,Low,Yes,Lo-fi,6:00,Yes
+36,River Flows in You,Pharrell Williams,86,Instrumental,Stress Relief,Medium,Yes,Ambient,2:48,Partial
+37,Hallelujah,Imagine Dragons,134,English,Mood Boost,Medium,Yes,Devotional,7:17,Yes
+38,Happy,Ludovico Einaudi,116,Tamil,Depression Support,High,Yes,Classical,8:27,No
+39,Kun Faya Kun,Lady Gaga,105,Korean,Anxiety Relief,Medium,Yes,Lo-fi,6:02,Partial
+40,Raataan Lambiyan,Post Malone,119,Instrumental,Mood Boost,High,No,Classical,5:35,Yes
+41,Let It Be,Post Malone,105,English,Period Pain Relief,Low,Yes,Ambient,7:50,Yes
+42,Raataan Lambiyan,Ed Sheeran,169,Tamil,Depression Support,Medium,No,Devotional,3:50,Partial
+43,Kun Faya Kun,Marconi Union,150,Instrumental,Stress Relief,High,No,Pop,6:40,Partial
+44,Shape of You,The Beatles,166,Korean,Period Pain Relief,High,Yes,Devotional,3:26,Partial
+45,Nuvole Bianche,Billie Eilish,85,Hindi,Period Pain Relief,High,Yes,Classical,2:33,Partial
+46,Tum Hi Ho,Leonard Cohen,114,Korean,Sleep Aid,High,No,Classical,6:26,Partial
+47,Weightless,Leonard Cohen,53,English,Mood Boost,Medium,No,Classical,2:07,No
+48,A Sky Full of Stars,Leonard Cohen,170,Instrumental,Anxiety Relief,Low,Yes,Lo-fi,7:57,Partial
+49,Sunflower,Billie Eilish,94,Instrumental,Period Pain Relief,High,Yes,Lo-fi,4:40,Partial
+50,Perfect,Marconi Union,126,Tamil,Anxiety Relief,Low,Yes,Pop,8:11,Yes
+51,Shape of You,Marconi Union,63,Korean,Sleep Aid,Low,No,Acoustic,2:02,Yes
+52,Nuvole Bianche,Post Malone,129,Korean,Mood Boost,Medium,No,Classical,2:06,Yes
+53,Happy,Post Malone,139,Hindi,Depression Support,High,Yes,Classical,7:45,No
+54,Someone Like You,Ludovico Einaudi,66,Hindi,Depression Support,Low,Yes,Acoustic,7:52,No
+55,Believer,Ludovico Einaudi,127,Instrumental,Depression Support,Medium,Yes,Devotional,6:25,Partial
+56,Someone Like You,Ludovico Einaudi,120,Tamil,Sleep Aid,Low,Yes,Classical,2:43,Yes
+57,Weightless,Adele,159,Instrumental,Sleep Aid,Low,Yes,Classical,6:10,No
+58,Fix You,The Beatles,122,English,Anxiety Relief,Medium,No,Acoustic,4:45,Yes
+59,Shallow,Post Malone,70,Instrumental,Stress Relief,High,Yes,Classical,8:09,No
+60,Nuvole Bianche,The Weeknd,67,Hindi,Sleep Aid,Medium,No,Classical,4:49,No
+61,Happy,The Weeknd,53,Tamil,Depression Support,High,No,Classical,2:29,Yes
+62,Believer,Post Malone,118,Hindi,Mood Boost,Low,Yes,Classical,4:00,No
+63,Weightless,The Weeknd,113,English,Anxiety Relief,Low,Yes,Ambient,3:59,Partial
+64,Happy,Coldplay,137,Tamil,Mood Boost,Low,Yes,Acoustic,6:54,Yes
+65,Weightless,The Beatles,80,Instrumental,Sleep Aid,Low,No,Classical,4:52,Yes
+66,Fix You,Post Malone,167,English,Mood Boost,Low,Yes,Lo-fi,7:27,Yes
+67,Tum Hi Ho,Ed Sheeran,113,English,Stress Relief,Low,Yes,Lo-fi,4:05,Partial
+68,Shallow,Adele,146,English,Sleep Aid,High,Yes,Ambient,7:29,Partial
+69,River Flows in You,Ed Sheeran,91,Instrumental,Period Pain Relief,Low,Yes,Devotional,8:57,Yes
+70,Nuvole Bianche,A R Rahman,58,Tamil,Period Pain Relief,High,Yes,Pop,2:19,No
+71,Shallow,Post Malone,154,English,Stress Relief,Medium,Yes,Pop,7:21,No
+72,Hallelujah,Billie Eilish,142,Tamil,Period Pain Relief,High,Yes,Classical,8:09,Partial
+73,Weightless,Imagine Dragons,128,English,Stress Relief,Medium,Yes,Classical,3:14,No
+74,Shape of You,Adele,106,Instrumental,Period Pain Relief,Medium,Yes,Pop,3:04,Yes
+75,Perfect,The Weeknd,118,English,Mood Boost,Medium,Yes,Acoustic,4:45,Partial
+76,River Flows in You,The Weeknd,155,Tamil,Stress Relief,High,No,Pop,3:25,Yes
+77,Kun Faya Kun,Ed Sheeran,135,Instrumental,Stress Relief,High,Yes,Acoustic,3:04,No
+78,Happy,Billie Eilish,132,English,Anxiety Relief,Medium,Yes,Pop,4:42,Yes
+79,Believer,Lady Gaga,120,Tamil,Anxiety Relief,Low,Yes,Ambient,4:06,Partial
+80,A Sky Full of Stars,Arijit Singh,150,Instrumental,Period Pain Relief,Medium,Yes,Devotional,3:03,Partial
+81,Tum Hi Ho,The Beatles,127,Korean,Depression Support,Low,Yes,Devotional,7:44,Yes
+82,Shallow,Marconi Union,69,Tamil,Mood Boost,High,No,Acoustic,7:56,Yes
+83,Believer,Ed Sheeran,150,Hindi,Stress Relief,Medium,Yes,Lo-fi,2:36,No
+84,Blinding Lights,The Beatles,58,Hindi,Anxiety Relief,Medium,Yes,Ambient,5:54,Partial
+85,Sunflower,Yiruma,80,Hindi,Depression Support,Medium,No,Pop,4:11,No
+86,Sunflower,Marconi Union,163,Korean,Depression Support,Medium,Yes,Classical,3:00,No
+87,Shape of You,Lady Gaga,122,English,Stress Relief,Medium,Yes,Pop,6:42,Yes
+88,Ocean Eyes,Ludovico Einaudi,113,Hindi,Sleep Aid,Low,Yes,Devotional,3:40,Partial
+89,Lovely,Imagine Dragons,132,English,Anxiety Relief,Low,Yes,Pop,7:32,No
+90,Kun Faya Kun,The Beatles,131,Instrumental,Anxiety Relief,Medium,No,Devotional,4:24,Partial
+91,Weightless,Billie Eilish,150,Tamil,Mood Boost,High,Yes,Ambient,5:46,No
+92,Nuvole Bianche,The Weeknd,97,English,Period Pain Relief,Medium,Yes,Pop,7:34,Partial
+93,Tum Hi Ho,The Beatles,168,English,Period Pain Relief,Low,Yes,Pop,4:33,No
+94,Weightless,Leonard Cohen,166,Korean,Sleep Aid,Low,No,Ambient,5:48,Partial
+95,Raataan Lambiyan,Imagine Dragons,64,Tamil,Period Pain Relief,Medium,Yes,Pop,7:47,Yes
+96,River Flows in You,Leonard Cohen,70,Hindi,Mood Boost,Medium,Yes,Acoustic,5:00,Yes
+97,Weightless,Pharrell Williams,149,Instrumental,Sleep Aid,High,No,Pop,5:19,Partial
+98,Ocean Eyes,Adele,103,Hindi,Mood Boost,High,No,Lo-fi,7:55,Partial
+99,A Sky Full of Stars,Yiruma,101,English,Stress Relief,Low,No,Pop,5:05,No
+100,Ocean Eyes,Marconi Union,109,Tamil,Anxiety Relief,High,Yes,Ambient,7:03,Yes
+101,Perfect,Imagine Dragons,104,English,Period Pain Relief,High,Yes,Acoustic,6:51,Yes
+102,A Sky Full of Stars,Imagine Dragons,90,Korean,Sleep Aid,Low,No,Acoustic,4:26,Partial
+103,Weightless,Post Malone,89,Hindi,Anxiety Relief,Medium,Yes,Lo-fi,5:57,No
+104,Ocean Eyes,A R Rahman,62,Instrumental,Anxiety Relief,Medium,Yes,Lo-fi,4:28,No
+105,Perfect,Ludovico Einaudi,133,English,Depression Support,Low,No,Classical,4:44,Partial
+106,Sunflower,Post Malone,142,Instrumental,Mood Boost,Low,Yes,Lo-fi,8:19,Partial
+107,Raataan Lambiyan,Coldplay,83,Korean,Period Pain Relief,Medium,Yes,Acoustic,8:48,Yes
+108,A Sky Full of Stars,A R Rahman,69,Tamil,Mood Boost,Low,No,Pop,6:58,No
+109,Someone Like You,The Weeknd,120,English,Sleep Aid,Low,No,Ambient,6:26,No
+110,Sunflower,Adele,132,English,Anxiety Relief,Medium,Yes,Classical,2:31,No
+111,Blinding Lights,Post Malone,74,Korean,Depression Support,Low,Yes,Pop,6:46,Yes
+112,Tum Hi Ho,Ed Sheeran,98,Hindi,Depression Support,Low,No,Devotional,6:01,Yes
+113,Let It Be,Ludovico Einaudi,81,English,Depression Support,Low,Yes,Ambient,5:25,Partial
+114,Sunflower,Imagine Dragons,91,Instrumental,Sleep Aid,High,No,Ambient,3:36,Yes
+115,Happy,Arijit Singh,116,Instrumental,Stress Relief,Low,Yes,Lo-fi,8:55,Partial
+116,Tum Hi Ho,Lady Gaga,62,Hindi,Anxiety Relief,Low,No,Acoustic,3:03,Partial
+117,Kun Faya Kun,The Beatles,101,Korean,Stress Relief,High,No,Lo-fi,7:33,Yes
+118,Shape of You,Post Malone,157,Instrumental,Stress Relief,Low,Yes,Ambient,5:32,No
+119,Perfect,Post Malone,160,English,Period Pain Relief,Medium,Yes,Acoustic,6:13,Partial
+120,Ocean Eyes,The Weeknd,137,Tamil,Anxiety Relief,Low,Yes,Ambient,5:09,Partial
+121,Let It Be,Arijit Singh,137,English,Sleep Aid,Low,Yes,Classical,6:09,No
+122,Kun Faya Kun,Marconi Union,125,English,Period Pain Relief,Low,Yes,Ambient,2:05,Yes
+123,River Flows in You,The Weeknd,75,Korean,Sleep Aid,Low,No,Pop,6:25,Partial
+124,A Sky Full of Stars,The Beatles,67,Instrumental,Period Pain Relief,Low,Yes,Lo-fi,6:15,Partial
+125,Lovely,A R Rahman,51,English,Period Pain Relief,High,Yes,Acoustic,2:54,No
+126,Let It Be,Marconi Union,113,Korean,Stress Relief,Medium,No,Ambient,6:38,No
+127,Lovely,Marconi Union,86,Korean,Anxiety Relief,High,Yes,Classical,2:08,Partial
+128,Nuvole Bianche,Coldplay,153,Hindi,Period Pain Relief,Low,Yes,Pop,4:45,Yes
+129,Raataan Lambiyan,Ed Sheeran,58,Hindi,Anxiety Relief,Medium,Yes,Lo-fi,8:14,Yes
+130,Let It Be,Arijit Singh,131,Korean,Mood Boost,Low,No,Devotional,3:41,Partial
+131,Tum Hi Ho,Post Malone,108,Tamil,Stress Relief,Medium,Yes,Acoustic,7:55,Partial
+132,Lovely,Coldplay,95,Tamil,Stress Relief,Medium,No,Lo-fi,2:52,Partial
+133,Lovely,Billie Eilish,93,Hindi,Stress Relief,Low,No,Lo-fi,4:19,Yes
+134,Shape of You,Post Malone,166,Hindi,Mood Boost,Low,Yes,Ambient,3:00,Yes
+135,Believer,The Beatles,82,English,Anxiety Relief,High,Yes,Pop,3:25,Partial
+136,Sunflower,Pharrell Williams,50,Hindi,Stress Relief,High,Yes,Acoustic,5:23,Yes
+137,Tum Hi Ho,A R Rahman,98,Korean,Depression Support,High,No,Ambient,3:22,Yes
+138,Let It Be,The Beatles,86,Instrumental,Anxiety Relief,Medium,Yes,Acoustic,3:28,No
+139,Fix You,The Beatles,60,Instrumental,Mood Boost,Low,Yes,Acoustic,3:37,Partial
+140,Let It Be,Coldplay,122,Instrumental,Period Pain Relief,Medium,Yes,Ambient,2:43,No
+141,Raataan Lambiyan,Pharrell Williams,107,Tamil,Mood Boost,High,Yes,Lo-fi,7:10,No
+142,Weightless,Billie Eilish,147,Hindi,Mood Boost,Low,No,Pop,3:35,Partial
+143,Weightless,Adele,120,Korean,Stress Relief,Low,Yes,Lo-fi,6:30,Partial
+144,Shape of You,Adele,122,Korean,Depression Support,Low,Yes,Devotional,6:59,Yes
+145,Believer,Pharrell Williams,55,Hindi,Anxiety Relief,Low,No,Lo-fi,6:14,No
+146,Sunflower,Yiruma,69,Tamil,Depression Support,High,Yes,Classical,6:31,No
+147,Blinding Lights,Imagine Dragons,118,Instrumental,Period Pain Relief,Medium,Yes,Pop,6:53,Partial
+148,Ocean Eyes,The Beatles,68,Tamil,Mood Boost,Medium,Yes,Ambient,4:08,Yes
+149,A Sky Full of Stars,The Beatles,87,English,Period Pain Relief,Medium,Yes,Lo-fi,6:34,Yes
+150,Tum Hi Ho,Yiruma,56,Instrumental,Period Pain Relief,High,Yes,Lo-fi,8:38,Yes
+151,Someone Like You,The Weeknd,95,Instrumental,Period Pain Relief,Low,Yes,Devotional,8:45,Partial
+152,Sunflower,Marconi Union,92,Instrumental,Stress Relief,Medium,Yes,Lo-fi,7:40,No
+153,Tum Hi Ho,The Weeknd,165,Korean,Anxiety Relief,High,No,Acoustic,6:46,Partial
+154,Perfect,A R Rahman,161,Korean,Sleep Aid,Medium,Yes,Classical,4:14,Partial
+155,Ocean Eyes,Marconi Union,154,Korean,Depression Support,Medium,Yes,Classical,6:48,Partial
+156,Nuvole Bianche,The Beatles,115,Korean,Depression Support,Low,Yes,Ambient,2:35,No
+157,Lovely,Ed Sheeran,96,Hindi,Mood Boost,Low,No,Devotional,8:16,Partial
+158,Someone Like You,The Beatles,89,Hindi,Depression Support,Medium,Yes,Classical,5:04,Yes
+159,A Sky Full of Stars,Ludovico Einaudi,120,Instrumental,Period Pain Relief,Low,Yes,Classical,3:07,No
+160,Weightless,Lady Gaga,141,English,Anxiety Relief,High,Yes,Pop,8:39,No
+161,Lovely,Lady Gaga,97,English,Stress Relief,Low,No,Ambient,7:02,No
+162,Hallelujah,Pharrell Williams,153,Tamil,Period Pain Relief,High,Yes,Classical,2:37,Yes
+163,Nuvole Bianche,Ludovico Einaudi,69,Hindi,Anxiety Relief,Medium,Yes,Devotional,2:47,No
+164,Believer,Adele,88,English,Depression Support,Low,Yes,Acoustic,5:36,Yes
+165,Raataan Lambiyan,Leonard Cohen,75,Instrumental,Sleep Aid,Low,No,Lo-fi,2:04,Yes
+166,Let It Be,Pharrell Williams,96,English,Anxiety Relief,High,Yes,Acoustic,4:47,Yes
+167,Tum Hi Ho,Leonard Cohen,87,English,Mood Boost,Low,No,Ambient,6:36,Partial
+168,Fix You,Leonard Cohen,131,English,Stress Relief,Medium,No,Devotional,3:41,Partial
+169,Tum Hi Ho,A R Rahman,53,Instrumental,Sleep Aid,Low,No,Classical,3:23,No
+170,Believer,Yiruma,164,Hindi,Period Pain Relief,Low,Yes,Classical,8:16,Partial
+171,Fix You,Adele,55,Tamil,Mood Boost,Low,Yes,Acoustic,8:28,No
+172,Weightless,Ludovico Einaudi,160,Hindi,Stress Relief,Medium,No,Lo-fi,4:16,Yes
+173,Blinding Lights,The Beatles,71,Tamil,Sleep Aid,Low,No,Ambient,4:31,Partial
+174,Believer,Yiruma,148,English,Sleep Aid,Low,Yes,Classical,8:35,No
+175,Nuvole Bianche,Post Malone,60,Hindi,Period Pain Relief,Low,Yes,Acoustic,5:58,No
+176,Lovely,Billie Eilish,133,Instrumental,Anxiety Relief,Medium,No,Devotional,4:40,No
+177,Perfect,Lady Gaga,87,Instrumental,Anxiety Relief,High,Yes,Pop,3:15,Yes
+178,Raataan Lambiyan,Pharrell Williams,66,Tamil,Mood Boost,Low,Yes,Lo-fi,3:15,Partial
+179,Believer,Lady Gaga,155,Tamil,Stress Relief,High,No,Acoustic,7:23,Partial
+180,Let It Be,Adele,125,English,Anxiety Relief,Medium,No,Ambient,4:59,Yes
+181,Ocean Eyes,Yiruma,163,Tamil,Anxiety Relief,High,Yes,Ambient,8:50,Yes
+182,Shape of You,Coldplay,164,English,Sleep Aid,Low,Yes,Lo-fi,3:42,Yes
+183,Fix You,Post Malone,106,Hindi,Period Pain Relief,Low,Yes,Classical,4:18,Partial
+184,A Sky Full of Stars,Coldplay,170,English,Sleep Aid,Low,Yes,Lo-fi,3:50,No
+185,River Flows in You,Arijit Singh,136,Korean,Period Pain Relief,Low,Yes,Pop,6:44,No
+186,Perfect,Ed Sheeran,51,Hindi,Period Pain Relief,Medium,Yes,Ambient,7:02,No
+187,Lovely,Pharrell Williams,58,Tamil,Mood Boost,Medium,No,Acoustic,8:33,Partial
+188,Perfect,Ludovico Einaudi,81,Hindi,Anxiety Relief,High,No,Ambient,6:33,No
+189,Nuvole Bianche,A R Rahman,51,Korean,Stress Relief,Low,Yes,Ambient,6:13,Partial
+190,Shallow,Yiruma,97,Instrumental,Depression Support,High,Yes,Devotional,5:02,No
+191,Tum Hi Ho,Imagine Dragons,54,English,Anxiety Relief,Low,Yes,Devotional,2:13,Yes
+192,Shape of You,Imagine Dragons,162,Hindi,Anxiety Relief,Medium,Yes,Lo-fi,7:28,Yes
+193,A Sky Full of Stars,Post Malone,83,English,Sleep Aid,Low,Yes,Devotional,7:30,Partial
+194,Perfect,Imagine Dragons,145,Tamil,Anxiety Relief,High,Yes,Ambient,3:00,Yes
+195,Someone Like You,Lady Gaga,125,English,Sleep Aid,High,Yes,Lo-fi,6:29,Yes
+196,Let It Be,Pharrell Williams,114,Tamil,Depression Support,High,Yes,Classical,3:12,Yes
+197,Tum Hi Ho,Adele,170,Hindi,Depression Support,Medium,No,Classical,6:43,No
+198,Raataan Lambiyan,Coldplay,146,Instrumental,Period Pain Relief,High,Yes,Lo-fi,2:34,Partial
+199,Shape of You,Ludovico Einaudi,121,Korean,Depression Support,Medium,No,Lo-fi,6:12,Partial
+200,Lovely,Imagine Dragons,73,English,Period Pain Relief,High,Yes,Devotional,4:10,No
+201,Blinding Lights,Yiruma,93,Instrumental,Anxiety Relief,Medium,Yes,Acoustic,6:03,No
+202,River Flows in You,Ludovico Einaudi,118,Hindi,Mood Boost,Medium,No,Devotional,2:52,Yes
+203,Perfect,Leonard Cohen,115,English,Sleep Aid,Low,Yes,Acoustic,8:56,No
+204,Blinding Lights,Pharrell Williams,149,Korean,Depression Support,Low,No,Lo-fi,7:32,Yes
+205,Raataan Lambiyan,Lady Gaga,105,Instrumental,Depression Support,Low,Yes,Ambient,8:38,No
+206,Tum Hi Ho,The Beatles,152,English,Mood Boost,High,Yes,Devotional,5:14,Partial
+207,Let It Be,Post Malone,111,English,Mood Boost,High,No,Acoustic,4:01,No
+208,Fix You,Pharrell Williams,79,Korean,Mood Boost,Medium,Yes,Pop,5:37,Yes
+209,Believer,Pharrell Williams,68,Korean,Depression Support,High,No,Pop,2:08,Yes
+210,River Flows in You,Coldplay,118,Instrumental,Depression Support,Medium,No,Ambient,8:38,No
+211,Kun Faya Kun,The Beatles,122,Hindi,Sleep Aid,Medium,Yes,Classical,6:57,Partial
+212,Raataan Lambiyan,Pharrell Williams,98,Hindi,Sleep Aid,Medium,Yes,Pop,4:55,No
+213,Fix You,Ludovico Einaudi,109,English,Period Pain Relief,High,Yes,Classical,8:01,No
+214,Ocean Eyes,Leonard Cohen,161,Hindi,Mood Boost,Low,No,Acoustic,8:30,Partial
+215,Raataan Lambiyan,Ludovico Einaudi,141,Tamil,Sleep Aid,Low,No,Pop,8:17,Yes
+216,Fix You,Yiruma,170,Korean,Sleep Aid,Medium,No,Lo-fi,6:56,Partial
+217,Believer,Billie Eilish,157,Korean,Anxiety Relief,High,Yes,Ambient,6:30,Yes
+218,Sunflower,Arijit Singh,138,Tamil,Sleep Aid,High,No,Classical,5:07,No
+219,Fix You,Marconi Union,131,Hindi,Sleep Aid,Low,No,Classical,5:49,Yes
+220,Shallow,Billie Eilish,84,Hindi,Sleep Aid,High,No,Pop,7:45,No
+221,River Flows in You,A R Rahman,104,Hindi,Anxiety Relief,High,Yes,Acoustic,3:58,Partial
+222,Perfect,A R Rahman,99,Instrumental,Mood Boost,High,Yes,Lo-fi,3:22,Partial
+223,Fix You,Leonard Cohen,132,Instrumental,Period Pain Relief,High,Yes,Lo-fi,2:23,No
+224,Nuvole Bianche,Coldplay,132,Tamil,Period Pain Relief,High,Yes,Classical,7:29,Partial
+225,River Flows in You,The Beatles,56,Korean,Depression Support,Medium,Yes,Classical,6:30,Yes
+226,A Sky Full of Stars,The Beatles,68,Hindi,Period Pain Relief,High,Yes,Acoustic,8:26,Partial
+227,Shape of You,Coldplay,150,Korean,Anxiety Relief,Low,No,Classical,5:23,Partial
+228,Let It Be,Arijit Singh,123,Korean,Mood Boost,Low,No,Pop,4:08,No
+229,Tum Hi Ho,Marconi Union,167,Tamil,Anxiety Relief,Medium,No,Lo-fi,4:40,Yes
+230,A Sky Full of Stars,Billie Eilish,153,Hindi,Stress Relief,Medium,No,Devotional,6:44,No
+231,Shape of You,Adele,95,Korean,Stress Relief,Low,Yes,Pop,2:58,Yes
+232,Shallow,The Weeknd,138,Tamil,Mood Boost,High,No,Pop,8:35,Partial
+233,Tum Hi Ho,Lady Gaga,62,Korean,Sleep Aid,High,No,Lo-fi,5:04,No
+234,Lovely,Lady Gaga,130,Korean,Depression Support,Medium,Yes,Lo-fi,6:07,No
+235,Let It Be,Imagine Dragons,89,Instrumental,Sleep Aid,High,No,Lo-fi,6:14,No
+236,Ocean Eyes,Adele,140,Instrumental,Stress Relief,Low,Yes,Devotional,2:31,Partial
+237,Nuvole Bianche,Coldplay,74,Instrumental,Stress Relief,High,Yes,Classical,5:21,Yes
+238,Weightless,Post Malone,71,English,Stress Relief,Low,No,Devotional,5:17,Yes
+239,Weightless,The Weeknd,66,Hindi,Sleep Aid,High,Yes,Classical,2:43,Partial
+240,Happy,Pharrell Williams,150,Tamil,Mood Boost,Low,No,Acoustic,4:46,Partial
+241,Sunflower,Coldplay,59,English,Depression Support,Low,Yes,Classical,3:43,Yes
+242,Shape of You,Marconi Union,110,Korean,Mood Boost,High,Yes,Ambient,6:14,No
+243,Perfect,Marconi Union,116,Korean,Sleep Aid,Medium,Yes,Classical,8:02,Partial
+244,Let It Be,Imagine Dragons,63,Tamil,Period Pain Relief,High,Yes,Devotional,2:16,Yes
+245,Hallelujah,The Weeknd,104,Korean,Mood Boost,Medium,Yes,Lo-fi,5:04,Partial
+246,A Sky Full of Stars,Arijit Singh,51,Tamil,Depression Support,Low,No,Devotional,8:48,Yes
+247,Let It Be,The Beatles,82,Instrumental,Sleep Aid,High,Yes,Classical,2:10,No
+248,Blinding Lights,Coldplay,147,English,Depression Support,Medium,Yes,Devotional,7:19,Partial
+249,Tum Hi Ho,Coldplay,88,English,Anxiety Relief,Low,Yes,Classical,4:06,Partial
+250,Blinding Lights,Adele,89,English,Anxiety Relief,Low,No,Classical,8:34,No
+251,Lovely,The Weeknd,133,Hindi,Depression Support,Low,Yes,Classical,4:41,Partial
+252,Ocean Eyes,Yiruma,64,Tamil,Period Pain Relief,Medium,Yes,Devotional,4:20,Yes
+253,Nuvole Bianche,Marconi Union,139,English,Stress Relief,Medium,Yes,Acoustic,2:16,No
+254,River Flows in You,The Beatles,77,Hindi,Stress Relief,Medium,Yes,Classical,8:23,Partial
+255,Tum Hi Ho,The Weeknd,89,English,Depression Support,High,No,Lo-fi,6:46,Partial
+256,Nuvole Bianche,Ed Sheeran,94,Korean,Anxiety Relief,Low,No,Ambient,4:59,Yes
+257,Lovely,The Beatles,87,Tamil,Anxiety Relief,Medium,Yes,Pop,3:14,No
+258,Ocean Eyes,The Weeknd,110,English,Period Pain Relief,Low,Yes,Classical,8:02,No
+259,Let It Be,Yiruma,56,Instrumental,Period Pain Relief,Medium,Yes,Pop,7:21,No
+260,Raataan Lambiyan,Pharrell Williams,113,Hindi,Stress Relief,High,No,Lo-fi,5:12,No
+261,Shape of You,Pharrell Williams,51,Hindi,Sleep Aid,Low,Yes,Ambient,2:09,No
+262,Weightless,A R Rahman,104,Instrumental,Stress Relief,High,Yes,Acoustic,4:16,Yes
+263,Nuvole Bianche,Billie Eilish,103,Instrumental,Mood Boost,High,Yes,Pop,8:44,No
+264,Hallelujah,Ludovico Einaudi,70,Tamil,Sleep Aid,Medium,Yes,Devotional,6:09,Partial
+265,A Sky Full of Stars,Arijit Singh,87,English,Mood Boost,High,No,Ambient,8:14,No
+266,Sunflower,Post Malone,127,Tamil,Anxiety Relief,Medium,Yes,Lo-fi,2:54,Yes
+267,Believer,Leonard Cohen,137,English,Period Pain Relief,Medium,Yes,Pop,6:40,Yes
+268,A Sky Full of Stars,Coldplay,95,Instrumental,Sleep Aid,High,No,Devotional,8:55,No
+269,Believer,Lady Gaga,62,Hindi,Anxiety Relief,High,Yes,Acoustic,4:33,Partial
+270,Lovely,Yiruma,98,Instrumental,Sleep Aid,Low,No,Ambient,6:58,Partial
+271,A Sky Full of Stars,Adele,158,Hindi,Mood Boost,Medium,No,Devotional,8:16,Partial
+272,A Sky Full of Stars,Imagine Dragons,79,Korean,Depression Support,High,No,Devotional,2:07,Yes
+273,Fix You,Yiruma,85,Tamil,Stress Relief,Low,No,Lo-fi,2:36,Yes
+274,Nuvole Bianche,Marconi Union,75,Tamil,Mood Boost,Low,Yes,Lo-fi,6:22,Yes
+275,Shallow,Yiruma,95,Tamil,Stress Relief,High,No,Ambient,6:01,No
+276,Blinding Lights,Marconi Union,78,Korean,Mood Boost,Medium,No,Acoustic,8:52,No
+277,Weightless,Post Malone,112,Tamil,Period Pain Relief,Low,Yes,Lo-fi,3:41,Partial
+278,Happy,Yiruma,58,Hindi,Mood Boost,High,No,Classical,7:35,Yes
+279,Shallow,Billie Eilish,71,Instrumental,Mood Boost,High,Yes,Classical,5:01,Partial
+280,Kun Faya Kun,A R Rahman,140,Hindi,Sleep Aid,Medium,Yes,Devotional,4:37,Yes
+281,Shape of You,Coldplay,77,Instrumental,Anxiety Relief,High,No,Lo-fi,7:12,Yes
+282,River Flows in You,Yiruma,113,Korean,Anxiety Relief,Low,Yes,Classical,5:50,No
+283,Lovely,Billie Eilish,50,Korean,Depression Support,Low,No,Acoustic,3:11,Partial
+284,Hallelujah,Adele,114,Korean,Anxiety Relief,Medium,Yes,Lo-fi,7:24,No
+285,Believer,Arijit Singh,92,Instrumental,Stress Relief,High,Yes,Classical,4:16,No
+286,Tum Hi Ho,Yiruma,170,English,Stress Relief,Low,No,Ambient,8:53,Yes
+287,Nuvole Bianche,A R Rahman,120,Instrumental,Depression Support,Low,No,Devotional,8:42,Partial
+288,Hallelujah,Ed Sheeran,82,Korean,Stress Relief,Low,No,Devotional,4:54,Yes
+289,Let It Be,Imagine Dragons,121,Korean,Sleep Aid,Medium,No,Ambient,2:09,Partial
+290,Kun Faya Kun,Coldplay,132,Korean,Stress Relief,Low,Yes,Ambient,6:45,Partial
+291,Shallow,Adele,91,English,Period Pain Relief,Low,Yes,Lo-fi,3:39,Yes
+292,Sunflower,Lady Gaga,62,Tamil,Depression Support,Low,No,Classical,5:05,No
+293,Nuvole Bianche,Yiruma,59,Hindi,Stress Relief,Low,No,Ambient,7:17,Yes
+294,River Flows in You,Lady Gaga,121,English,Stress Relief,Medium,No,Pop,6:17,No
+295,River Flows in You,Ed Sheeran,119,Tamil,Sleep Aid,Medium,Yes,Lo-fi,2:13,Partial
+296,Tum Hi Ho,A R Rahman,104,Instrumental,Anxiety Relief,Medium,No,Acoustic,3:25,No
+297,Believer,Leonard Cohen,73,English,Depression Support,Medium,Yes,Lo-fi,7:39,No
+298,Raataan Lambiyan,A R Rahman,149,Instrumental,Sleep Aid,High,No,Ambient,3:55,No
+299,Shape of You,Pharrell Williams,80,Korean,Depression Support,Low,No,Pop,5:12,Yes
+300,Shallow,Lady Gaga,59,Korean,Period Pain Relief,High,Yes,Devotional,4:19,Yes
+301,Believer,Yiruma,68,Tamil,Mood Boost,Medium,Yes,Pop,6:24,Partial
+302,Blinding Lights,Leonard Cohen,53,Tamil,Period Pain Relief,Medium,Yes,Ambient,5:53,Yes
+303,Kun Faya Kun,Adele,168,Korean,Sleep Aid,Low,Yes,Devotional,4:38,Yes
+304,Raataan Lambiyan,A R Rahman,157,Tamil,Anxiety Relief,Low,Yes,Devotional,3:37,Partial
+305,Kun Faya Kun,Leonard Cohen,167,Korean,Mood Boost,Low,No,Acoustic,6:21,Yes
+306,Kun Faya Kun,Ludovico Einaudi,131,Hindi,Mood Boost,Medium,Yes,Classical,4:25,Yes
+307,Hallelujah,Lady Gaga,112,English,Period Pain Relief,Medium,Yes,Lo-fi,8:55,Yes
+308,Fix You,Ed Sheeran,90,Tamil,Depression Support,High,No,Devotional,8:18,Partial
+309,Tum Hi Ho,Coldplay,156,Instrumental,Period Pain Relief,Low,Yes,Acoustic,3:59,Yes
+310,Fix You,The Weeknd,74,Instrumental,Sleep Aid,Low,Yes,Pop,8:55,Partial
+311,Believer,Yiruma,118,Tamil,Sleep Aid,Low,Yes,Lo-fi,6:19,Yes
+312,Sunflower,Leonard Cohen,138,Hindi,Sleep Aid,Medium,Yes,Acoustic,6:19,No
+313,Weightless,Arijit Singh,55,Instrumental,Period Pain Relief,High,Yes,Ambient,7:56,Yes
+314,Ocean Eyes,The Weeknd,89,Hindi,Period Pain Relief,High,Yes,Devotional,4:27,Partial
+315,Hallelujah,Post Malone,55,Tamil,Sleep Aid,High,No,Ambient,6:54,Partial
+316,Fix You,A R Rahman,104,Korean,Period Pain Relief,Low,Yes,Acoustic,5:31,No
+317,Let It Be,Arijit Singh,146,English,Mood Boost,Low,No,Classical,7:34,Partial
+318,A Sky Full of Stars,Marconi Union,57,Korean,Period Pain Relief,Medium,Yes,Pop,6:50,Yes
+319,Perfect,A R Rahman,169,Tamil,Depression Support,Low,No,Ambient,4:07,No
+320,Perfect,Ed Sheeran,147,Korean,Sleep Aid,Medium,Yes,Devotional,6:27,Yes
+321,Shallow,Ed Sheeran,65,Hindi,Mood Boost,High,Yes,Devotional,8:11,No
+322,Nuvole Bianche,Adele,51,Hindi,Depression Support,High,Yes,Ambient,6:26,Partial
+323,Lovely,A R Rahman,133,Korean,Period Pain Relief,High,Yes,Pop,4:35,Partial
+324,Kun Faya Kun,Post Malone,132,Korean,Mood Boost,Medium,Yes,Ambient,3:55,Yes
+325,Believer,Ludovico Einaudi,126,Hindi,Period Pain Relief,Medium,Yes,Acoustic,4:02,Yes
+326,Happy,Ludovico Einaudi,99,English,Anxiety Relief,Low,Yes,Classical,6:58,Yes
+327,Kun Faya Kun,Marconi Union,136,English,Mood Boost,Medium,Yes,Classical,8:54,No
+328,Shallow,The Weeknd,119,English,Mood Boost,Low,No,Lo-fi,7:27,No
+329,Blinding Lights,Coldplay,87,Korean,Sleep Aid,Medium,No,Acoustic,8:09,Yes
+330,Lovely,A R Rahman,154,Tamil,Depression Support,Low,Yes,Devotional,8:55,No
+331,Sunflower,Billie Eilish,107,Korean,Depression Support,High,Yes,Ambient,3:59,No
+332,Believer,A R Rahman,79,Tamil,Anxiety Relief,High,Yes,Classical,6:32,Yes
+333,Tum Hi Ho,The Weeknd,62,Hindi,Sleep Aid,Low,Yes,Devotional,7:56,Yes
+334,Believer,Leonard Cohen,62,Tamil,Sleep Aid,Medium,Yes,Devotional,7:09,Partial
+335,Hallelujah,Pharrell Williams,106,Korean,Stress Relief,Low,Yes,Pop,2:04,No
+336,Hallelujah,Imagine Dragons,136,Tamil,Period Pain Relief,High,Yes,Classical,2:39,No
+337,Happy,Lady Gaga,136,Tamil,Depression Support,High,No,Devotional,3:55,No
+338,Kun Faya Kun,Coldplay,147,Instrumental,Period Pain Relief,High,Yes,Ambient,8:17,Yes
+339,Sunflower,Leonard Cohen,76,Tamil,Mood Boost,Low,Yes,Pop,2:24,No
+340,Ocean Eyes,The Weeknd,87,Tamil,Mood Boost,Medium,No,Pop,4:27,Yes
+341,Kun Faya Kun,Leonard Cohen,81,English,Depression Support,Low,No,Ambient,7:34,Partial
+342,Raataan Lambiyan,Adele,157,Instrumental,Stress Relief,High,Yes,Classical,6:13,Partial
+343,Hallelujah,Ludovico Einaudi,68,English,Anxiety Relief,Medium,Yes,Devotional,7:24,Partial
+344,Fix You,Lady Gaga,65,English,Depression Support,Low,No,Lo-fi,4:41,Partial
+345,Shallow,Lady Gaga,93,Tamil,Anxiety Relief,Low,No,Acoustic,7:06,Partial
+346,A Sky Full of Stars,Leonard Cohen,158,Instrumental,Stress Relief,High,Yes,Lo-fi,4:34,Partial
+347,Blinding Lights,Ludovico Einaudi,154,Tamil,Sleep Aid,Low,Yes,Acoustic,7:43,Partial
+348,Shape of You,The Beatles,161,Instrumental,Stress Relief,Medium,Yes,Ambient,5:38,Yes
+349,Blinding Lights,Yiruma,123,Instrumental,Period Pain Relief,Low,Yes,Acoustic,8:35,No
+350,Shape of You,Pharrell Williams,108,Tamil,Depression Support,Low,No,Lo-fi,2:08,Partial
+351,Believer,Billie Eilish,152,Hindi,Anxiety Relief,Low,Yes,Pop,2:24,Yes
+352,A Sky Full of Stars,Coldplay,154,Instrumental,Depression Support,Medium,No,Lo-fi,8:03,No
+353,Raataan Lambiyan,The Beatles,101,Instrumental,Anxiety Relief,High,Yes,Acoustic,4:37,Yes
+354,Hallelujah,Pharrell Williams,145,Hindi,Depression Support,Medium,No,Acoustic,4:16,No
+355,Weightless,Marconi Union,99,Tamil,Sleep Aid,Low,No,Devotional,6:26,Yes
+356,River Flows in You,Lady Gaga,135,Korean,Anxiety Relief,Medium,Yes,Devotional,2:59,No
+357,Believer,Ludovico Einaudi,159,Hindi,Sleep Aid,Medium,No,Acoustic,3:09,Partial
+358,Someone Like You,Arijit Singh,69,Korean,Stress Relief,Medium,No,Devotional,2:25,No
+359,Someone Like You,Coldplay,147,Korean,Mood Boost,Medium,No,Pop,4:07,No
+360,Blinding Lights,Post Malone,96,English,Mood Boost,Medium,No,Classical,3:51,No
+361,Shallow,Pharrell Williams,156,Tamil,Period Pain Relief,Low,Yes,Classical,8:09,No
+362,Lovely,A R Rahman,139,Instrumental,Depression Support,Low,Yes,Lo-fi,5:32,No
+363,Let It Be,Coldplay,67,Tamil,Anxiety Relief,Low,No,Ambient,8:09,Partial
+364,A Sky Full of Stars,Adele,136,English,Sleep Aid,Medium,Yes,Classical,2:44,No
+365,Sunflower,Pharrell Williams,87,Instrumental,Mood Boost,Medium,Yes,Acoustic,2:29,Yes
+366,River Flows in You,Ed Sheeran,59,English,Anxiety Relief,Low,Yes,Lo-fi,2:54,No
+367,Lovely,Billie Eilish,132,Hindi,Period Pain Relief,Low,Yes,Classical,5:23,No
+368,Raataan Lambiyan,Arijit Singh,150,English,Sleep Aid,Medium,No,Acoustic,2:12,No
+369,Ocean Eyes,A R Rahman,149,Instrumental,Period Pain Relief,Low,Yes,Classical,3:25,Partial
+370,Perfect,Ludovico Einaudi,151,Hindi,Period Pain Relief,Medium,Yes,Pop,8:52,No
+371,Weightless,Ludovico Einaudi,166,Instrumental,Sleep Aid,Low,Yes,Acoustic,2:36,Partial
+372,Believer,Pharrell Williams,164,Instrumental,Mood Boost,Low,No,Acoustic,6:07,Yes
+373,Raataan Lambiyan,Billie Eilish,170,English,Sleep Aid,High,Yes,Classical,4:35,No
+374,Nuvole Bianche,Marconi Union,125,English,Mood Boost,Medium,Yes,Classical,6:17,Yes
+375,Sunflower,The Beatles,102,Korean,Period Pain Relief,High,Yes,Ambient,2:28,Yes
+376,Perfect,Marconi Union,79,Instrumental,Depression Support,High,No,Acoustic,7:47,No
+377,Ocean Eyes,Leonard Cohen,57,Hindi,Sleep Aid,Medium,Yes,Ambient,8:40,No
+378,Weightless,The Beatles,96,Korean,Depression Support,Low,No,Ambient,3:46,Partial
+379,Weightless,The Beatles,60,Korean,Depression Support,Medium,No,Pop,3:18,No
+380,Happy,Coldplay,160,Hindi,Anxiety Relief,Low,No,Classical,6:05,Partial
+381,Someone Like You,Arijit Singh,144,Hindi,Sleep Aid,High,No,Lo-fi,4:17,No
+382,Nuvole Bianche,Lady Gaga,91,Tamil,Anxiety Relief,Low,No,Lo-fi,8:24,Partial
+383,Tum Hi Ho,Coldplay,77,Tamil,Depression Support,High,Yes,Acoustic,4:26,Partial
+384,Hallelujah,Coldplay,164,English,Stress Relief,Low,Yes,Lo-fi,4:30,Yes
+385,A Sky Full of Stars,Pharrell Williams,72,Instrumental,Period Pain Relief,High,Yes,Lo-fi,3:32,Yes
+386,Kun Faya Kun,Billie Eilish,68,English,Depression Support,High,No,Lo-fi,8:01,No
+387,Sunflower,Pharrell Williams,154,Korean,Depression Support,High,Yes,Acoustic,3:01,Partial
+388,Believer,Lady Gaga,138,English,Sleep Aid,Medium,Yes,Acoustic,6:25,Partial
+389,Ocean Eyes,Arijit Singh,77,Korean,Sleep Aid,High,Yes,Pop,3:20,Yes
+390,Kun Faya Kun,Ludovico Einaudi,109,Korean,Depression Support,Low,No,Pop,6:01,Yes
+391,Believer,The Beatles,113,Korean,Stress Relief,Medium,No,Acoustic,6:31,Yes
+392,Let It Be,Arijit Singh,166,Instrumental,Stress Relief,Medium,Yes,Classical,2:42,No
+393,Perfect,Adele,105,English,Mood Boost,High,Yes,Lo-fi,4:22,Yes
+394,Let It Be,Ed Sheeran,160,English,Sleep Aid,High,Yes,Acoustic,8:27,No
+395,Kun Faya Kun,The Beatles,135,Instrumental,Sleep Aid,High,No,Acoustic,6:05,No
+396,Shape of You,Leonard Cohen,168,Hindi,Anxiety Relief,High,Yes,Pop,6:26,No
+397,Shallow,A R Rahman,81,Korean,Mood Boost,Low,Yes,Pop,7:53,Partial
+398,Happy,A R Rahman,86,Korean,Mood Boost,High,No,Acoustic,4:54,Yes
+399,Believer,A R Rahman,114,Instrumental,Depression Support,Low,No,Acoustic,7:07,No
+400,Blinding Lights,Post Malone,131,English,Period Pain Relief,Low,Yes,Ambient,2:16,Yes
+401,Let It Be,Lady Gaga,87,Hindi,Period Pain Relief,Low,Yes,Lo-fi,7:08,Partial
+402,A Sky Full of Stars,A R Rahman,104,Korean,Depression Support,High,Yes,Classical,4:14,Yes
+403,Shallow,Imagine Dragons,72,English,Period Pain Relief,High,Yes,Classical,6:52,No
+404,Fix You,Ludovico Einaudi,90,Hindi,Depression Support,Low,No,Acoustic,8:15,Yes
+405,Tum Hi Ho,Marconi Union,53,Tamil,Period Pain Relief,Medium,Yes,Ambient,6:21,Yes
+406,Blinding Lights,Pharrell Williams,109,Korean,Period Pain Relief,High,Yes,Acoustic,8:01,Yes
+407,Blinding Lights,Yiruma,94,English,Sleep Aid,High,No,Classical,8:53,No
+408,Blinding Lights,Yiruma,108,Hindi,Anxiety Relief,High,Yes,Pop,7:25,Partial
+409,Ocean Eyes,Imagine Dragons,115,Instrumental,Anxiety Relief,Low,Yes,Devotional,6:49,No
+410,River Flows in You,Leonard Cohen,120,Hindi,Stress Relief,Medium,Yes,Pop,7:49,No
+411,Sunflower,Billie Eilish,82,Hindi,Mood Boost,Low,No,Pop,5:23,No
+412,Shape of You,Coldplay,162,Instrumental,Period Pain Relief,High,Yes,Classical,4:42,Yes
+413,Shallow,Imagine Dragons,101,Instrumental,Period Pain Relief,High,Yes,Devotional,8:31,Partial
+414,Kun Faya Kun,Ed Sheeran,110,Instrumental,Stress Relief,Low,Yes,Ambient,3:23,Partial
+415,Tum Hi Ho,A R Rahman,152,Hindi,Sleep Aid,High,No,Pop,3:54,No
+416,Believer,Imagine Dragons,135,Hindi,Sleep Aid,High,No,Lo-fi,4:45,Yes
+417,Shape of You,Coldplay,54,Instrumental,Depression Support,Medium,No,Pop,6:57,Yes
+418,Hallelujah,Ed Sheeran,72,Korean,Stress Relief,Low,No,Ambient,6:41,Partial
+419,A Sky Full of Stars,Post Malone,154,English,Mood Boost,Low,Yes,Devotional,2:37,Partial
+420,Blinding Lights,Ed Sheeran,126,Korean,Depression Support,Low,No,Ambient,5:03,Partial
+421,Let It Be,A R Rahman,111,English,Depression Support,Low,Yes,Pop,5:41,Yes
+422,Believer,Ed Sheeran,98,Korean,Period Pain Relief,High,Yes,Lo-fi,7:24,Yes
+423,Sunflower,Pharrell Williams,67,Hindi,Sleep Aid,Low,Yes,Devotional,8:53,Yes
+424,Nuvole Bianche,Adele,102,Instrumental,Anxiety Relief,Low,No,Devotional,6:06,No
+425,Hallelujah,Leonard Cohen,70,Korean,Anxiety Relief,Medium,Yes,Classical,7:38,Partial
+426,Happy,Imagine Dragons,105,Instrumental,Anxiety Relief,High,Yes,Ambient,3:25,Yes
+427,Hallelujah,Leonard Cohen,135,Instrumental,Period Pain Relief,Medium,Yes,Devotional,8:05,Yes
+428,Nuvole Bianche,Post Malone,117,English,Sleep Aid,High,Yes,Pop,7:10,Partial
+429,Raataan Lambiyan,Imagine Dragons,133,Hindi,Depression Support,Medium,Yes,Ambient,8:23,Yes
+430,River Flows in You,Lady Gaga,156,Tamil,Sleep Aid,High,No,Lo-fi,4:54,No
+431,Nuvole Bianche,Billie Eilish,59,Instrumental,Period Pain Relief,High,Yes,Ambient,2:26,No
+432,Let It Be,Pharrell Williams,165,English,Depression Support,High,No,Classical,6:35,No
+433,Shape of You,The Weeknd,117,English,Anxiety Relief,Low,Yes,Devotional,5:40,Yes
+434,Kun Faya Kun,Imagine Dragons,134,English,Mood Boost,Medium,Yes,Lo-fi,6:27,Yes
+435,Nuvole Bianche,Marconi Union,92,Hindi,Mood Boost,Low,No,Devotional,3:29,Partial
+436,Nuvole Bianche,Adele,148,Tamil,Sleep Aid,High,No,Classical,7:16,No
+437,Weightless,Leonard Cohen,152,Korean,Stress Relief,Medium,No,Ambient,4:38,Yes
+438,Happy,Adele,144,Tamil,Period Pain Relief,High,Yes,Lo-fi,2:49,No
+439,Kun Faya Kun,Imagine Dragons,155,English,Anxiety Relief,Medium,Yes,Devotional,7:30,Yes
+440,A Sky Full of Stars,Ludovico Einaudi,106,Instrumental,Stress Relief,Medium,Yes,Lo-fi,2:52,Yes
+441,Someone Like You,Billie Eilish,68,Korean,Anxiety Relief,Medium,Yes,Devotional,5:16,No
+442,Kun Faya Kun,Arijit Singh,82,Tamil,Depression Support,Low,Yes,Ambient,3:45,Partial
+443,Nuvole Bianche,Pharrell Williams,73,English,Period Pain Relief,Low,Yes,Classical,2:50,Yes
+444,Raataan Lambiyan,The Weeknd,71,English,Anxiety Relief,High,Yes,Devotional,2:59,No
+445,Sunflower,A R Rahman,131,Tamil,Anxiety Relief,Medium,No,Devotional,2:45,Partial
+446,Lovely,Post Malone,133,Instrumental,Period Pain Relief,Low,Yes,Classical,8:49,No
+447,Nuvole Bianche,Adele,100,Tamil,Period Pain Relief,Medium,Yes,Classical,5:20,No
+448,Kun Faya Kun,Billie Eilish,82,Instrumental,Anxiety Relief,Low,No,Pop,8:36,No
+449,Nuvole Bianche,The Weeknd,65,Korean,Mood Boost,Low,No,Devotional,3:29,Yes
+450,Let It Be,Coldplay,104,Hindi,Depression Support,Low,No,Pop,4:36,Partial
+451,Shape of You,Ludovico Einaudi,97,Tamil,Sleep Aid,Medium,No,Pop,3:50,No
+452,Believer,Ludovico Einaudi,84,Tamil,Anxiety Relief,Medium,Yes,Classical,5:03,No
+453,Let It Be,Coldplay,62,Tamil,Period Pain Relief,Low,Yes,Lo-fi,5:25,Partial
+454,River Flows in You,Billie Eilish,100,English,Period Pain Relief,Medium,Yes,Ambient,5:38,Partial
+455,Shallow,Post Malone,57,English,Anxiety Relief,High,No,Classical,6:54,Partial
+456,Shape of You,Post Malone,111,Korean,Anxiety Relief,Low,Yes,Pop,5:15,Yes
+457,Let It Be,The Beatles,123,Hindi,Period Pain Relief,Low,Yes,Lo-fi,6:39,Partial
+458,Someone Like You,Arijit Singh,79,Instrumental,Depression Support,Low,No,Pop,2:46,Yes
+459,Kun Faya Kun,Ed Sheeran,50,Hindi,Stress Relief,Low,Yes,Ambient,2:00,Partial
+460,Someone Like You,Coldplay,140,English,Anxiety Relief,High,No,Devotional,5:25,Partial
+461,Let It Be,The Weeknd,138,Hindi,Stress Relief,High,Yes,Lo-fi,6:26,Partial
+462,Hallelujah,Adele,148,Instrumental,Stress Relief,Medium,No,Pop,7:11,Yes
+463,Weightless,Adele,121,Korean,Depression Support,High,No,Acoustic,7:37,Partial
+464,A Sky Full of Stars,The Beatles,144,Korean,Mood Boost,Medium,Yes,Classical,5:35,No
+465,Hallelujah,Ed Sheeran,147,Korean,Depression Support,Low,Yes,Devotional,2:13,No
+466,Sunflower,Adele,146,Tamil,Sleep Aid,High,No,Lo-fi,6:51,Yes
+467,Blinding Lights,Coldplay,170,Korean,Depression Support,Medium,No,Devotional,5:56,No
+468,Believer,Ludovico Einaudi,84,English,Period Pain Relief,Low,Yes,Ambient,4:01,Yes
+469,Weightless,Ed Sheeran,146,Instrumental,Sleep Aid,Medium,Yes,Devotional,3:20,Yes
+470,Nuvole Bianche,Pharrell Williams,75,Korean,Period Pain Relief,High,Yes,Lo-fi,8:58,Partial
+471,Nuvole Bianche,Lady Gaga,131,Tamil,Period Pain Relief,High,Yes,Ambient,5:38,No
+472,Fix You,Marconi Union,134,Instrumental,Mood Boost,High,No,Pop,7:58,Yes
+473,Sunflower,Lady Gaga,62,Hindi,Depression Support,Low,No,Lo-fi,8:36,No
+474,Sunflower,Ed Sheeran,105,English,Depression Support,High,Yes,Classical,2:02,Partial
+475,Perfect,Marconi Union,71,Tamil,Depression Support,Low,Yes,Acoustic,4:42,Partial
+476,Fix You,Post Malone,164,Instrumental,Depression Support,Low,No,Classical,2:47,No
+477,A Sky Full of Stars,Marconi Union,99,Tamil,Stress Relief,Medium,No,Classical,4:59,Partial
+478,Believer,Marconi Union,93,Instrumental,Stress Relief,Low,Yes,Acoustic,2:41,Yes
+479,Someone Like You,Leonard Cohen,109,Instrumental,Anxiety Relief,High,No,Ambient,6:22,Yes
+480,Fix You,Adele,138,Hindi,Stress Relief,Medium,Yes,Acoustic,7:17,No
+481,Blinding Lights,Arijit Singh,151,Instrumental,Stress Relief,Medium,No,Lo-fi,7:26,Yes
+482,Weightless,Arijit Singh,107,Hindi,Mood Boost,High,No,Ambient,8:53,Yes
+483,Lovely,The Weeknd,161,Instrumental,Depression Support,Low,No,Pop,8:59,No
+484,Kun Faya Kun,Leonard Cohen,76,Tamil,Sleep Aid,Medium,No,Acoustic,4:24,No
+485,Nuvole Bianche,Coldplay,53,English,Period Pain Relief,Medium,Yes,Ambient,2:41,Partial
+486,River Flows in You,Imagine Dragons,111,Korean,Anxiety Relief,Low,No,Pop,2:55,No
+487,Hallelujah,Lady Gaga,137,Tamil,Stress Relief,Low,Yes,Lo-fi,2:07,No
+488,Raataan Lambiyan,Imagine Dragons,83,Tamil,Period Pain Relief,Low,Yes,Pop,7:49,Partial
+489,Shape of You,Post Malone,65,Tamil,Mood Boost,Medium,No,Classical,8:54,Yes
+490,Ocean Eyes,Adele,83,Korean,Sleep Aid,High,Yes,Ambient,3:09,Partial
+491,Fix You,Billie Eilish,106,Korean,Period Pain Relief,Low,Yes,Classical,2:12,Yes
+492,Tum Hi Ho,Billie Eilish,79,English,Stress Relief,Low,No,Acoustic,6:18,No
+493,Kun Faya Kun,The Beatles,59,Korean,Sleep Aid,Medium,Yes,Pop,5:03,No
+494,Perfect,Ludovico Einaudi,97,English,Stress Relief,Medium,No,Devotional,4:43,No
+495,Raataan Lambiyan,Arijit Singh,54,English,Depression Support,Medium,Yes,Classical,4:32,Yes
+496,Weightless,Post Malone,62,Tamil,Depression Support,High,No,Acoustic,2:40,Partial
+497,Tum Hi Ho,A R Rahman,90,Korean,Mood Boost,High,No,Devotional,8:04,No
+498,Lovely,Ed Sheeran,72,Instrumental,Period Pain Relief,Medium,Yes,Lo-fi,5:35,No
+499,Believer,Coldplay,123,Korean,Sleep Aid,Medium,Yes,Devotional,3:05,Yes
+500,Blinding Lights,Ludovico Einaudi,93,Korean,Anxiety Relief,Medium,Yes,Lo-fi,8:21,Yes
+501,Tum Hi Ho,The Weeknd,151,Tamil,Depression Support,Low,Yes,Devotional,2:27,Partial
+502,Lovely,Imagine Dragons,115,Tamil,Sleep Aid,Low,No,Lo-fi,6:39,Partial
+503,Shape of You,Imagine Dragons,79,Instrumental,Mood Boost,High,No,Lo-fi,7:30,Yes
+504,Hallelujah,Imagine Dragons,118,English,Stress Relief,High,Yes,Ambient,7:45,No
+505,Blinding Lights,Lady Gaga,170,Instrumental,Sleep Aid,Low,No,Devotional,3:11,Yes
+506,Someone Like You,The Weeknd,124,Instrumental,Depression Support,High,No,Lo-fi,2:07,Yes
+507,Let It Be,Leonard Cohen,158,Hindi,Mood Boost,Medium,No,Classical,6:15,No
+508,Fix You,Arijit Singh,163,Korean,Mood Boost,Low,No,Devotional,3:55,Partial
+509,Shape of You,Marconi Union,110,Hindi,Depression Support,Medium,No,Devotional,4:06,No
+510,A Sky Full of Stars,Ludovico Einaudi,61,English,Anxiety Relief,Low,Yes,Classical,7:34,Partial
+511,Blinding Lights,Pharrell Williams,155,Instrumental,Depression Support,High,No,Pop,8:36,No
+512,Happy,Yiruma,119,Tamil,Anxiety Relief,High,No,Ambient,4:29,Partial
+513,Shallow,Yiruma,163,Instrumental,Period Pain Relief,High,Yes,Pop,2:05,Yes
+514,Happy,Arijit Singh,102,Hindi,Depression Support,High,No,Lo-fi,7:15,Partial
+515,Perfect,Billie Eilish,61,Hindi,Sleep Aid,Medium,Yes,Acoustic,8:55,No
+516,A Sky Full of Stars,Adele,61,Hindi,Depression Support,Medium,No,Pop,6:22,Partial
+517,Kun Faya Kun,Pharrell Williams,106,Tamil,Mood Boost,Low,No,Acoustic,3:16,Yes
+518,Kun Faya Kun,Pharrell Williams,169,Korean,Anxiety Relief,High,No,Devotional,5:22,Yes
+519,Shallow,Ludovico Einaudi,138,English,Period Pain Relief,Low,Yes,Ambient,2:10,Yes
+520,Kun Faya Kun,Lady Gaga,134,Instrumental,Depression Support,High,No,Classical,5:46,No
+521,Ocean Eyes,A R Rahman,79,Tamil,Stress Relief,Low,Yes,Devotional,7:27,Partial
+522,Happy,The Weeknd,158,Instrumental,Anxiety Relief,Medium,No,Classical,8:09,Yes
+523,Let It Be,Imagine Dragons,145,Hindi,Sleep Aid,Low,No,Pop,4:14,No
+524,Fix You,Imagine Dragons,64,Tamil,Stress Relief,Medium,Yes,Ambient,6:24,Partial
+525,Raataan Lambiyan,Post Malone,150,English,Anxiety Relief,Low,No,Acoustic,6:58,No
+526,Shallow,Lady Gaga,109,Tamil,Period Pain Relief,Low,Yes,Lo-fi,4:09,No
+527,Blinding Lights,A R Rahman,94,Tamil,Anxiety Relief,Medium,Yes,Lo-fi,2:13,Yes
+528,Shape of You,Pharrell Williams,63,English,Mood Boost,Low,Yes,Acoustic,6:04,No
+529,Shallow,Ludovico Einaudi,91,Instrumental,Mood Boost,Low,No,Classical,2:44,Partial
+530,Fix You,Pharrell Williams,128,Korean,Anxiety Relief,Low,No,Ambient,8:17,No
+531,Nuvole Bianche,Arijit Singh,149,Tamil,Depression Support,Low,No,Acoustic,7:39,Partial
+532,Sunflower,Ludovico Einaudi,99,Tamil,Mood Boost,Medium,Yes,Acoustic,6:35,Partial
+533,Shallow,A R Rahman,111,Tamil,Depression Support,Medium,Yes,Devotional,2:27,Yes
+534,Ocean Eyes,Billie Eilish,149,Instrumental,Stress Relief,High,Yes,Pop,5:39,No
+535,Nuvole Bianche,Yiruma,126,English,Sleep Aid,Medium,No,Lo-fi,8:45,Yes
+536,Perfect,Billie Eilish,111,Hindi,Sleep Aid,Low,No,Ambient,7:02,No
+537,Perfect,Marconi Union,161,Tamil,Depression Support,Low,Yes,Ambient,7:19,Partial
+538,Raataan Lambiyan,Pharrell Williams,66,Hindi,Sleep Aid,Low,No,Lo-fi,7:31,Yes
+539,Believer,Billie Eilish,117,Tamil,Mood Boost,Low,Yes,Acoustic,8:40,Yes
+540,Lovely,Post Malone,115,Hindi,Period Pain Relief,Low,Yes,Devotional,4:19,Yes
+541,Perfect,Imagine Dragons,157,Instrumental,Stress Relief,High,Yes,Classical,3:28,Partial
+542,Tum Hi Ho,Coldplay,113,Hindi,Mood Boost,Medium,Yes,Classical,2:55,Yes
+543,Let It Be,Post Malone,62,Instrumental,Period Pain Relief,Low,Yes,Ambient,6:18,Partial
+544,Blinding Lights,Ludovico Einaudi,117,Instrumental,Period Pain Relief,High,Yes,Devotional,5:57,No
+545,Ocean Eyes,Ed Sheeran,167,English,Depression Support,High,No,Pop,8:21,Yes
+546,River Flows in You,Post Malone,118,Hindi,Period Pain Relief,Low,Yes,Acoustic,5:37,Partial
+547,Fix You,Post Malone,131,Instrumental,Period Pain Relief,Medium,Yes,Ambient,4:46,Partial
+548,Raataan Lambiyan,Arijit Singh,57,Tamil,Depression Support,Medium,Yes,Pop,7:43,Yes
+549,Blinding Lights,Pharrell Williams,162,Korean,Mood Boost,Medium,Yes,Acoustic,8:36,Yes
+550,Lovely,The Weeknd,148,English,Period Pain Relief,High,Yes,Classical,7:00,Yes
+551,Shape of You,Coldplay,121,Tamil,Depression Support,Medium,Yes,Classical,2:22,Partial
+552,Let It Be,Ed Sheeran,152,Tamil,Anxiety Relief,Low,Yes,Lo-fi,3:14,Partial
+553,Perfect,Billie Eilish,154,English,Depression Support,High,No,Lo-fi,6:31,Partial
+554,Happy,A R Rahman,54,English,Stress Relief,High,No,Devotional,8:49,No
+555,Happy,Yiruma,77,English,Depression Support,Medium,Yes,Acoustic,8:06,Partial
+556,Fix You,A R Rahman,91,Instrumental,Period Pain Relief,High,Yes,Classical,8:34,Partial
+557,Someone Like You,Pharrell Williams,147,Instrumental,Mood Boost,Low,No,Acoustic,8:34,Partial
+558,Hallelujah,Ed Sheeran,80,Tamil,Depression Support,High,Yes,Lo-fi,6:47,Yes
+559,Lovely,A R Rahman,67,English,Mood Boost,Low,No,Ambient,4:10,Partial
+560,Nuvole Bianche,The Weeknd,86,Tamil,Anxiety Relief,High,Yes,Classical,2:54,Partial
+561,Kun Faya Kun,Imagine Dragons,130,English,Sleep Aid,Low,Yes,Acoustic,8:39,Yes
+562,Someone Like You,Coldplay,136,Korean,Period Pain Relief,High,Yes,Classical,3:57,Yes
+563,River Flows in You,Billie Eilish,99,Tamil,Period Pain Relief,High,Yes,Acoustic,2:16,Partial
+564,Shape of You,Lady Gaga,120,Instrumental,Anxiety Relief,Medium,Yes,Lo-fi,4:04,Partial
+565,A Sky Full of Stars,Post Malone,142,Tamil,Anxiety Relief,Medium,No,Classical,3:22,Partial
+566,Kun Faya Kun,A R Rahman,73,Tamil,Period Pain Relief,Medium,Yes,Ambient,6:30,Yes
+567,Shape of You,The Weeknd,99,English,Mood Boost,Medium,No,Devotional,7:22,Yes
+568,River Flows in You,Billie Eilish,62,Korean,Anxiety Relief,High,No,Acoustic,8:01,Yes
+569,Weightless,The Beatles,126,Korean,Period Pain Relief,High,Yes,Devotional,2:43,No
+570,Weightless,The Weeknd,72,Instrumental,Stress Relief,Low,No,Classical,6:24,No
+571,Perfect,Marconi Union,89,Hindi,Mood Boost,Medium,No,Ambient,6:12,Partial
+572,Fix You,Pharrell Williams,58,Tamil,Mood Boost,High,No,Ambient,7:16,No
+573,Fix You,The Beatles,154,Instrumental,Mood Boost,Low,No,Classical,5:22,Yes
+574,Nuvole Bianche,Coldplay,65,Instrumental,Sleep Aid,Low,No,Ambient,3:42,No
+575,Perfect,Leonard Cohen,105,Instrumental,Stress Relief,High,Yes,Pop,2:15,Partial
+576,Shape of You,Marconi Union,95,Korean,Depression Support,High,Yes,Acoustic,2:56,Partial
+577,Fix You,Imagine Dragons,60,Tamil,Depression Support,Low,No,Acoustic,3:11,No
+578,Blinding Lights,The Beatles,148,Instrumental,Mood Boost,Medium,Yes,Acoustic,4:13,Yes
+579,Believer,Coldplay,146,Tamil,Sleep Aid,Low,Yes,Devotional,4:12,No
+580,Shallow,Arijit Singh,85,Korean,Period Pain Relief,Low,Yes,Acoustic,5:59,Yes
+581,Believer,Yiruma,161,Hindi,Mood Boost,Low,Yes,Devotional,6:29,Partial
+582,Kun Faya Kun,Lady Gaga,161,Hindi,Mood Boost,High,No,Devotional,7:50,Yes
+583,Tum Hi Ho,Coldplay,161,English,Mood Boost,Medium,Yes,Pop,8:58,Yes
+584,Shape of You,Adele,119,Korean,Anxiety Relief,High,No,Ambient,3:20,No
+585,Hallelujah,Marconi Union,114,Korean,Sleep Aid,High,No,Acoustic,7:39,Yes
+586,Shape of You,Billie Eilish,94,English,Depression Support,High,Yes,Ambient,2:33,Partial
+587,Shape of You,Imagine Dragons,56,Instrumental,Sleep Aid,High,Yes,Pop,2:24,Partial
+588,River Flows in You,Ludovico Einaudi,159,Tamil,Sleep Aid,High,No,Lo-fi,8:47,Yes
+589,Shape of You,Adele,151,Tamil,Depression Support,Medium,Yes,Acoustic,8:18,No
+590,Lovely,Imagine Dragons,154,Instrumental,Mood Boost,High,No,Pop,2:36,No
+591,Ocean Eyes,Marconi Union,140,Korean,Mood Boost,High,Yes,Acoustic,7:23,Partial
+592,Someone Like You,Billie Eilish,55,Instrumental,Anxiety Relief,High,No,Devotional,4:38,Yes
+593,Ocean Eyes,Ed Sheeran,146,Tamil,Anxiety Relief,Low,Yes,Devotional,8:05,Partial
+594,Shallow,Ed Sheeran,50,Hindi,Stress Relief,Medium,No,Classical,4:10,Yes
+595,Kun Faya Kun,The Beatles,127,Korean,Stress Relief,Low,Yes,Devotional,8:22,Partial
+596,Fix You,Coldplay,75,Korean,Anxiety Relief,Low,Yes,Ambient,6:33,Yes
+597,Let It Be,Ludovico Einaudi,135,Korean,Period Pain Relief,Low,Yes,Lo-fi,4:52,No
+598,Sunflower,A R Rahman,100,Hindi,Period Pain Relief,High,Yes,Classical,4:02,Partial
+599,Believer,Leonard Cohen,117,Tamil,Sleep Aid,Low,No,Lo-fi,3:30,Partial
+600,Fix You,Ed Sheeran,95,Hindi,Sleep Aid,Medium,No,Classical,3:16,Yes
+601,Weightless,Ed Sheeran,126,English,Sleep Aid,High,No,Pop,2:00,Partial
+602,Kun Faya Kun,Pharrell Williams,157,Instrumental,Anxiety Relief,Medium,No,Devotional,4:18,Yes
+603,A Sky Full of Stars,Post Malone,124,English,Stress Relief,Low,Yes,Ambient,3:44,No
+604,Let It Be,Coldplay,159,Instrumental,Anxiety Relief,Low,No,Classical,2:16,No
+605,A Sky Full of Stars,Yiruma,167,English,Period Pain Relief,Low,Yes,Pop,7:28,No
+606,Shape of You,Coldplay,140,Hindi,Sleep Aid,Low,No,Acoustic,2:22,Yes
+607,Tum Hi Ho,A R Rahman,129,Korean,Period Pain Relief,Medium,Yes,Ambient,2:14,Partial
+608,Tum Hi Ho,Imagine Dragons,73,English,Depression Support,Low,Yes,Classical,7:13,Partial
+609,Someone Like You,A R Rahman,167,English,Stress Relief,Low,No,Devotional,3:46,No
+610,River Flows in You,Marconi Union,123,Korean,Mood Boost,High,Yes,Ambient,6:14,Partial
+611,Ocean Eyes,The Beatles,154,Hindi,Anxiety Relief,Medium,Yes,Devotional,4:53,Yes
+612,Raataan Lambiyan,Ed Sheeran,86,Instrumental,Mood Boost,Medium,Yes,Devotional,5:19,Yes
+613,Weightless,Coldplay,126,Tamil,Stress Relief,High,Yes,Ambient,3:24,No
+614,Weightless,Marconi Union,169,English,Mood Boost,High,No,Devotional,8:10,Partial
+615,Ocean Eyes,Ed Sheeran,89,Tamil,Stress Relief,Medium,Yes,Pop,2:52,Partial
+616,Nuvole Bianche,Ludovico Einaudi,124,Instrumental,Anxiety Relief,High,Yes,Pop,3:14,Yes
+617,Kun Faya Kun,Billie Eilish,96,Korean,Anxiety Relief,High,No,Pop,8:21,Yes
+618,Shallow,Arijit Singh,117,Instrumental,Sleep Aid,Medium,Yes,Ambient,3:36,Partial
+619,Perfect,The Weeknd,54,Tamil,Period Pain Relief,Medium,Yes,Acoustic,2:36,Yes
+620,Fix You,Yiruma,96,Hindi,Sleep Aid,Medium,No,Lo-fi,3:23,Yes
+621,Believer,Post Malone,141,Tamil,Anxiety Relief,Medium,No,Devotional,8:16,Partial
+622,Weightless,A R Rahman,138,English,Period Pain Relief,Medium,Yes,Ambient,6:24,Partial
+623,Weightless,Ed Sheeran,154,Korean,Sleep Aid,Low,No,Lo-fi,7:13,Partial
+624,Believer,Ludovico Einaudi,129,Tamil,Anxiety Relief,High,No,Pop,6:16,Partial
+625,Lovely,Billie Eilish,64,Hindi,Period Pain Relief,Medium,Yes,Acoustic,7:13,Partial
+626,Kun Faya Kun,Coldplay,122,Tamil,Period Pain Relief,High,Yes,Lo-fi,6:48,Partial
+627,Perfect,Marconi Union,141,English,Depression Support,High,No,Ambient,4:46,Yes
+628,Weightless,Post Malone,92,Instrumental,Mood Boost,Medium,No,Acoustic,4:33,No
+629,Raataan Lambiyan,The Beatles,121,English,Anxiety Relief,High,Yes,Acoustic,6:55,Partial
+630,Lovely,Marconi Union,89,Korean,Anxiety Relief,Low,No,Devotional,5:25,Partial
+631,Ocean Eyes,Post Malone,141,English,Anxiety Relief,Low,Yes,Lo-fi,7:34,No
+632,River Flows in You,Adele,88,Tamil,Anxiety Relief,Medium,No,Pop,8:34,Partial
+633,Let It Be,Billie Eilish,122,Hindi,Period Pain Relief,Medium,Yes,Acoustic,3:05,No
+634,Hallelujah,Ludovico Einaudi,125,English,Anxiety Relief,High,No,Lo-fi,5:37,No
+635,Shallow,Imagine Dragons,117,Instrumental,Period Pain Relief,Low,Yes,Devotional,4:37,Yes
+636,Raataan Lambiyan,The Beatles,59,Korean,Depression Support,High,Yes,Ambient,4:53,No
+637,Lovely,Post Malone,163,Korean,Sleep Aid,Low,No,Classical,2:02,Yes
+638,Sunflower,Marconi Union,129,Tamil,Depression Support,High,No,Devotional,2:25,Partial
+639,Believer,The Weeknd,115,Hindi,Period Pain Relief,Medium,Yes,Lo-fi,4:23,Yes
+640,Perfect,A R Rahman,100,English,Sleep Aid,Low,Yes,Classical,6:13,Partial
+641,Shape of You,Leonard Cohen,134,Hindi,Anxiety Relief,Low,Yes,Acoustic,5:51,Partial
+642,A Sky Full of Stars,Leonard Cohen,161,Instrumental,Anxiety Relief,High,No,Lo-fi,4:17,No
+643,Shape of You,The Weeknd,61,Korean,Depression Support,High,No,Pop,2:55,No
+644,Nuvole Bianche,The Weeknd,148,Korean,Anxiety Relief,Low,No,Lo-fi,6:31,Partial
+645,Blinding Lights,Arijit Singh,54,Korean,Anxiety Relief,High,Yes,Acoustic,5:20,No
+646,A Sky Full of Stars,Billie Eilish,159,English,Depression Support,High,No,Ambient,6:36,Partial
+647,Tum Hi Ho,The Beatles,155,English,Sleep Aid,Low,Yes,Acoustic,4:45,No
+648,Let It Be,Leonard Cohen,163,English,Mood Boost,Medium,No,Lo-fi,3:03,No
+649,River Flows in You,Adele,144,Korean,Stress Relief,Medium,Yes,Devotional,3:56,Yes
+650,River Flows in You,Yiruma,89,Tamil,Depression Support,Medium,Yes,Classical,7:04,No
+651,Believer,Ed Sheeran,139,Instrumental,Period Pain Relief,High,Yes,Ambient,4:49,Yes
+652,Lovely,A R Rahman,153,Tamil,Mood Boost,Low,No,Acoustic,6:08,No
+653,Believer,The Beatles,81,English,Sleep Aid,High,Yes,Acoustic,8:41,Yes
+654,River Flows in You,Imagine Dragons,133,Tamil,Stress Relief,High,No,Lo-fi,7:47,No
+655,A Sky Full of Stars,The Weeknd,116,Korean,Mood Boost,Low,No,Acoustic,6:14,Yes
+656,Hallelujah,A R Rahman,80,English,Depression Support,Low,No,Classical,3:01,Yes
+657,Kun Faya Kun,Coldplay,63,Instrumental,Stress Relief,Low,No,Pop,6:20,Yes
+658,Happy,Arijit Singh,117,English,Sleep Aid,High,No,Classical,2:42,No
+659,Fix You,Ed Sheeran,72,Hindi,Sleep Aid,Medium,No,Lo-fi,4:27,Yes
+660,Let It Be,A R Rahman,107,English,Period Pain Relief,High,Yes,Lo-fi,6:13,Yes
+661,River Flows in You,Adele,101,Korean,Period Pain Relief,High,Yes,Devotional,8:32,Yes
+662,River Flows in You,Ed Sheeran,145,Tamil,Sleep Aid,Low,No,Acoustic,6:27,Yes
+663,Tum Hi Ho,Billie Eilish,140,Tamil,Stress Relief,High,Yes,Lo-fi,3:38,No
+664,Weightless,Arijit Singh,162,English,Period Pain Relief,Medium,Yes,Devotional,5:55,No
+665,Kun Faya Kun,Marconi Union,156,Tamil,Period Pain Relief,Medium,Yes,Pop,8:42,No
+666,Happy,Arijit Singh,66,Tamil,Period Pain Relief,Low,Yes,Classical,6:58,Yes
+667,Let It Be,Leonard Cohen,128,Korean,Depression Support,Medium,Yes,Classical,6:06,No
+668,Shape of You,The Beatles,84,English,Period Pain Relief,High,Yes,Classical,2:39,No
+669,Raataan Lambiyan,Pharrell Williams,95,Hindi,Anxiety Relief,Low,Yes,Pop,3:41,Yes
+670,River Flows in You,Imagine Dragons,142,Korean,Sleep Aid,High,No,Pop,7:10,Yes
+671,Kun Faya Kun,Post Malone,149,Hindi,Anxiety Relief,High,Yes,Pop,2:43,Yes
+672,Lovely,Yiruma,132,Hindi,Stress Relief,Medium,Yes,Classical,5:28,No
+673,Raataan Lambiyan,Ed Sheeran,111,Hindi,Depression Support,High,No,Classical,7:34,Yes
+674,Perfect,The Weeknd,63,Korean,Period Pain Relief,High,Yes,Pop,7:36,Partial
+675,A Sky Full of Stars,Coldplay,167,Tamil,Period Pain Relief,Low,Yes,Ambient,4:05,Yes
+676,Shallow,Imagine Dragons,149,English,Stress Relief,High,No,Devotional,3:43,No
+677,Ocean Eyes,The Weeknd,93,Instrumental,Stress Relief,Medium,Yes,Pop,7:44,Yes
+678,Shallow,Yiruma,137,Hindi,Period Pain Relief,High,Yes,Classical,6:20,Yes
+679,Perfect,Pharrell Williams,144,English,Depression Support,High,No,Classical,6:47,Partial
+680,Sunflower,Billie Eilish,146,Instrumental,Period Pain Relief,Low,Yes,Pop,7:48,Yes
+681,Hallelujah,Ed Sheeran,135,Instrumental,Stress Relief,Low,No,Ambient,2:25,No
+682,Hallelujah,Post Malone,95,Instrumental,Mood Boost,Low,Yes,Acoustic,7:02,Yes
+683,Shallow,Imagine Dragons,144,Tamil,Anxiety Relief,Low,Yes,Acoustic,5:28,Yes
+684,Someone Like You,Marconi Union,124,Tamil,Mood Boost,Medium,No,Classical,6:59,Yes
+685,Lovely,Arijit Singh,152,Hindi,Depression Support,Low,Yes,Devotional,5:42,No
+686,Shallow,Pharrell Williams,170,Korean,Period Pain Relief,Low,Yes,Devotional,7:51,Yes
+687,Hallelujah,A R Rahman,124,Instrumental,Depression Support,Medium,No,Classical,6:56,No
+688,Weightless,Ed Sheeran,145,Korean,Mood Boost,Medium,No,Devotional,8:06,Partial
+689,Fix You,Imagine Dragons,151,Instrumental,Depression Support,Low,Yes,Ambient,3:25,No
+690,Happy,Pharrell Williams,149,Instrumental,Period Pain Relief,Medium,Yes,Classical,3:56,Yes
+691,Perfect,Pharrell Williams,52,Tamil,Anxiety Relief,Medium,Yes,Classical,5:01,Partial
+692,Kun Faya Kun,Imagine Dragons,89,English,Mood Boost,Low,No,Classical,7:14,No
+693,Raataan Lambiyan,Leonard Cohen,57,Korean,Anxiety Relief,High,Yes,Lo-fi,3:08,Yes
+694,Perfect,Lady Gaga,76,Instrumental,Stress Relief,High,No,Lo-fi,8:49,Yes
+695,Lovely,Pharrell Williams,141,English,Anxiety Relief,High,Yes,Lo-fi,4:06,Yes
+696,River Flows in You,Yiruma,91,Hindi,Sleep Aid,High,Yes,Devotional,8:01,No
+697,Lovely,Yiruma,93,English,Stress Relief,High,Yes,Acoustic,6:29,Yes
+698,Nuvole Bianche,Pharrell Williams,124,Korean,Mood Boost,Medium,Yes,Devotional,2:01,Partial
+699,Believer,Post Malone,123,Korean,Anxiety Relief,Low,Yes,Devotional,7:29,Partial
+700,Tum Hi Ho,Lady Gaga,169,Korean,Stress Relief,High,No,Lo-fi,7:19,Yes
+701,Someone Like You,Marconi Union,73,Tamil,Depression Support,Low,No,Acoustic,4:14,Partial
+702,Let It Be,The Beatles,58,Hindi,Anxiety Relief,Medium,No,Lo-fi,4:29,Partial
+703,Believer,Ed Sheeran,136,Hindi,Anxiety Relief,Low,No,Classical,7:26,Yes
+704,Fix You,Leonard Cohen,76,English,Sleep Aid,Low,Yes,Devotional,6:27,Partial
+705,Tum Hi Ho,Arijit Singh,120,Tamil,Anxiety Relief,Medium,No,Acoustic,5:08,Yes
+706,Perfect,Post Malone,170,English,Period Pain Relief,High,Yes,Devotional,8:43,Yes
+707,Happy,Ludovico Einaudi,101,English,Stress Relief,High,Yes,Ambient,3:43,Yes
+708,Hallelujah,The Beatles,54,Hindi,Mood Boost,High,No,Classical,2:49,No
+709,Kun Faya Kun,Lady Gaga,155,Korean,Period Pain Relief,High,Yes,Acoustic,3:14,Yes
+710,Someone Like You,Billie Eilish,51,English,Stress Relief,Medium,No,Ambient,5:50,Partial
+711,Sunflower,Yiruma,50,Tamil,Sleep Aid,Medium,No,Devotional,7:42,No
+712,Shape of You,The Weeknd,76,Hindi,Mood Boost,Medium,Yes,Lo-fi,3:33,No
+713,Fix You,The Weeknd,68,Tamil,Period Pain Relief,High,Yes,Acoustic,6:05,Yes
+714,Hallelujah,Billie Eilish,158,Tamil,Anxiety Relief,Medium,Yes,Lo-fi,4:04,Yes
+715,Fix You,Leonard Cohen,164,Korean,Mood Boost,High,Yes,Ambient,3:04,Partial
+716,Fix You,Coldplay,81,Korean,Sleep Aid,Low,Yes,Pop,4:52,No
+717,Fix You,A R Rahman,55,Tamil,Anxiety Relief,High,Yes,Pop,6:45,Yes
+718,A Sky Full of Stars,A R Rahman,62,Hindi,Depression Support,Low,No,Ambient,7:50,Yes
+719,Happy,A R Rahman,83,Tamil,Depression Support,High,Yes,Ambient,7:54,Partial
+720,Raataan Lambiyan,Post Malone,160,English,Mood Boost,High,Yes,Ambient,8:41,Partial
+721,Let It Be,Ed Sheeran,64,Hindi,Stress Relief,Low,No,Acoustic,3:33,Yes
+722,Tum Hi Ho,Lady Gaga,156,Tamil,Anxiety Relief,Low,No,Devotional,7:25,Yes
+723,Let It Be,Marconi Union,140,Instrumental,Depression Support,Medium,No,Pop,5:36,Partial
+724,Sunflower,Marconi Union,80,Korean,Depression Support,Low,Yes,Acoustic,3:30,No
+725,Kun Faya Kun,Lady Gaga,122,English,Anxiety Relief,Low,No,Classical,5:12,Yes
+726,Shape of You,Adele,157,Hindi,Sleep Aid,Low,No,Classical,5:01,Yes
+727,River Flows in You,Marconi Union,69,Tamil,Anxiety Relief,Medium,No,Devotional,4:21,Partial
+728,Lovely,Arijit Singh,89,Korean,Depression Support,High,Yes,Ambient,8:41,No
+729,Perfect,Coldplay,61,Instrumental,Mood Boost,High,No,Devotional,2:08,Partial
+730,Perfect,The Weeknd,51,English,Period Pain Relief,Medium,Yes,Classical,2:29,No
+731,Someone Like You,Leonard Cohen,87,English,Period Pain Relief,Low,Yes,Ambient,6:00,Partial
+732,Tum Hi Ho,The Weeknd,108,Korean,Sleep Aid,High,Yes,Pop,3:47,No
+733,Let It Be,Arijit Singh,144,Instrumental,Mood Boost,Medium,Yes,Ambient,2:58,Partial
+734,Happy,The Weeknd,124,Korean,Mood Boost,Low,Yes,Acoustic,2:44,Yes
+735,Nuvole Bianche,A R Rahman,138,Instrumental,Mood Boost,Medium,No,Lo-fi,3:12,Yes
+736,Hallelujah,Pharrell Williams,103,Instrumental,Sleep Aid,High,Yes,Pop,7:28,Yes
+737,Let It Be,The Beatles,149,Korean,Sleep Aid,Medium,Yes,Ambient,8:49,Yes
+738,Perfect,The Beatles,58,Korean,Sleep Aid,Medium,Yes,Acoustic,4:36,Yes
+739,Ocean Eyes,Pharrell Williams,61,Hindi,Mood Boost,Low,No,Classical,5:19,No
+740,River Flows in You,Leonard Cohen,58,Korean,Stress Relief,Low,Yes,Ambient,8:43,Yes
+741,Shallow,The Weeknd,113,Instrumental,Stress Relief,Low,No,Devotional,2:45,No
+742,Blinding Lights,Coldplay,96,English,Stress Relief,High,Yes,Devotional,6:47,Yes
+743,Ocean Eyes,Post Malone,169,Korean,Period Pain Relief,Low,Yes,Ambient,3:18,No
+744,River Flows in You,Pharrell Williams,83,Tamil,Depression Support,High,Yes,Acoustic,4:28,Partial
+745,River Flows in You,Adele,96,English,Stress Relief,Medium,Yes,Acoustic,6:07,No
+746,Tum Hi Ho,Pharrell Williams,56,Tamil,Sleep Aid,Low,Yes,Lo-fi,5:53,Partial
+747,Sunflower,Billie Eilish,152,Hindi,Period Pain Relief,High,Yes,Pop,2:38,Partial
+748,Sunflower,Ed Sheeran,107,English,Mood Boost,Medium,No,Classical,4:15,No
+749,River Flows in You,Imagine Dragons,67,Tamil,Stress Relief,High,Yes,Devotional,4:56,Yes
+750,A Sky Full of Stars,Adele,79,English,Depression Support,Medium,Yes,Acoustic,3:53,Yes
+751,Believer,A R Rahman,80,Korean,Stress Relief,High,Yes,Classical,2:47,Yes
+752,Tum Hi Ho,A R Rahman,103,English,Anxiety Relief,Medium,Yes,Ambient,2:19,Yes
+753,Tum Hi Ho,The Weeknd,166,Korean,Period Pain Relief,High,Yes,Ambient,4:15,No
+754,Kun Faya Kun,Ludovico Einaudi,84,English,Anxiety Relief,High,Yes,Ambient,8:33,Partial
+755,River Flows in You,The Weeknd,120,Hindi,Sleep Aid,High,No,Lo-fi,4:51,Yes
+756,Raataan Lambiyan,The Weeknd,129,Hindi,Mood Boost,High,No,Ambient,8:36,No
+757,Someone Like You,Yiruma,154,Korean,Period Pain Relief,High,Yes,Classical,5:05,Partial
+758,Shape of You,Lady Gaga,106,Tamil,Period Pain Relief,Medium,Yes,Lo-fi,6:42,Partial
+759,Sunflower,Imagine Dragons,90,Korean,Anxiety Relief,High,No,Lo-fi,3:11,Partial
+760,Happy,Lady Gaga,82,Korean,Stress Relief,Medium,Yes,Ambient,8:25,No
+761,Lovely,Adele,62,Hindi,Sleep Aid,Low,Yes,Acoustic,5:09,Yes
+762,Tum Hi Ho,Imagine Dragons,54,Tamil,Period Pain Relief,Medium,Yes,Devotional,2:47,Yes
+763,Weightless,Imagine Dragons,129,Korean,Anxiety Relief,Medium,No,Lo-fi,7:08,Partial
+764,Weightless,Ed Sheeran,77,Korean,Mood Boost,Low,No,Acoustic,3:42,No
+765,Ocean Eyes,The Weeknd,155,Korean,Stress Relief,Low,No,Ambient,4:41,Partial
+766,Someone Like You,Leonard Cohen,64,English,Period Pain Relief,High,Yes,Pop,5:04,No
+767,Raataan Lambiyan,Marconi Union,83,English,Anxiety Relief,Low,No,Devotional,6:19,No
+768,Blinding Lights,Ludovico Einaudi,73,Korean,Depression Support,Low,Yes,Classical,6:18,Partial
+769,River Flows in You,Arijit Singh,104,Korean,Depression Support,Medium,Yes,Lo-fi,7:26,Partial
+770,Shallow,Ed Sheeran,144,Instrumental,Period Pain Relief,Low,Yes,Ambient,3:25,Yes
+771,Shape of You,Lady Gaga,69,English,Anxiety Relief,Medium,Yes,Acoustic,2:16,No
+772,Tum Hi Ho,Post Malone,104,English,Period Pain Relief,High,Yes,Ambient,5:38,No
+773,Happy,Imagine Dragons,160,Hindi,Sleep Aid,Medium,Yes,Devotional,2:13,Partial
+774,Sunflower,Arijit Singh,137,Korean,Mood Boost,High,No,Pop,5:33,Partial
+775,Shape of You,Arijit Singh,109,Hindi,Period Pain Relief,High,Yes,Ambient,4:22,Partial
+776,Let It Be,Billie Eilish,52,English,Anxiety Relief,Medium,Yes,Pop,5:40,No
+777,Happy,The Beatles,117,Instrumental,Mood Boost,Low,Yes,Acoustic,5:59,Yes
+778,Happy,Coldplay,143,Tamil,Depression Support,Low,Yes,Pop,7:30,Yes
+779,Raataan Lambiyan,Pharrell Williams,128,Korean,Sleep Aid,High,No,Ambient,8:56,No
+780,Perfect,The Weeknd,141,Korean,Anxiety Relief,High,No,Acoustic,4:48,No
+781,Tum Hi Ho,Coldplay,103,Korean,Anxiety Relief,Medium,Yes,Lo-fi,6:14,No
+782,Blinding Lights,Post Malone,52,Instrumental,Period Pain Relief,Medium,Yes,Acoustic,6:08,No
+783,Let It Be,Post Malone,79,English,Period Pain Relief,Medium,Yes,Pop,8:56,Partial
+784,A Sky Full of Stars,Arijit Singh,143,English,Anxiety Relief,Low,No,Ambient,2:46,Yes
+785,Perfect,The Beatles,141,Tamil,Depression Support,High,No,Lo-fi,5:06,Yes
+786,Tum Hi Ho,Marconi Union,115,Tamil,Period Pain Relief,Medium,Yes,Pop,8:46,Partial
+787,Tum Hi Ho,Post Malone,72,Hindi,Stress Relief,Low,Yes,Classical,4:11,No
+788,Lovely,Arijit Singh,159,English,Anxiety Relief,Medium,Yes,Pop,6:56,Yes
+789,Weightless,Coldplay,138,Korean,Stress Relief,High,No,Pop,6:05,Yes
+790,Raataan Lambiyan,Imagine Dragons,116,Instrumental,Mood Boost,Medium,No,Classical,3:03,No
+791,Ocean Eyes,A R Rahman,126,Hindi,Period Pain Relief,Medium,Yes,Classical,4:38,No
+792,Sunflower,Imagine Dragons,133,Korean,Mood Boost,Low,Yes,Acoustic,3:08,Yes
+793,Kun Faya Kun,Imagine Dragons,58,Tamil,Depression Support,Medium,No,Classical,6:56,Yes
+794,Hallelujah,A R Rahman,170,Hindi,Sleep Aid,Medium,Yes,Devotional,6:09,No
+795,Raataan Lambiyan,Ed Sheeran,125,Instrumental,Mood Boost,Medium,No,Devotional,8:48,Partial
+796,Nuvole Bianche,Ed Sheeran,126,Korean,Sleep Aid,Low,Yes,Pop,4:14,No
+797,Weightless,Yiruma,169,English,Mood Boost,Low,Yes,Devotional,5:02,Partial
+798,Raataan Lambiyan,Lady Gaga,69,Korean,Anxiety Relief,Medium,Yes,Ambient,8:00,Partial
+799,Kun Faya Kun,Ludovico Einaudi,112,Korean,Depression Support,Medium,Yes,Pop,8:50,No
+800,Fix You,Yiruma,77,Korean,Depression Support,Medium,No,Classical,5:00,Partial
+801,Lovely,A R Rahman,167,Tamil,Sleep Aid,Medium,Yes,Pop,6:31,No
+802,Kun Faya Kun,The Weeknd,81,English,Stress Relief,Low,Yes,Classical,2:40,No
+803,River Flows in You,Coldplay,147,Hindi,Sleep Aid,High,No,Acoustic,3:50,Partial
+804,Weightless,Lady Gaga,137,Korean,Sleep Aid,High,Yes,Ambient,7:47,Yes
+805,Believer,Post Malone,64,Korean,Depression Support,High,Yes,Devotional,2:09,Partial
+806,Raataan Lambiyan,Leonard Cohen,146,Hindi,Mood Boost,High,Yes,Lo-fi,3:01,Partial
+807,Hallelujah,Marconi Union,62,English,Period Pain Relief,High,Yes,Ambient,6:38,No
+808,Blinding Lights,Arijit Singh,65,Hindi,Stress Relief,Medium,Yes,Ambient,6:35,Partial
+809,Tum Hi Ho,Coldplay,88,English,Stress Relief,High,No,Acoustic,4:12,Yes
+810,Shape of You,Imagine Dragons,138,English,Period Pain Relief,High,Yes,Devotional,8:07,Partial
+811,Perfect,Arijit Singh,70,Korean,Sleep Aid,Medium,Yes,Pop,7:13,Yes
+812,Weightless,A R Rahman,128,Korean,Mood Boost,Low,No,Acoustic,5:23,No
+813,Perfect,Leonard Cohen,109,Hindi,Sleep Aid,High,No,Acoustic,6:20,Yes
+814,Blinding Lights,The Beatles,129,Korean,Anxiety Relief,High,No,Pop,8:25,No
+815,Someone Like You,Marconi Union,82,Instrumental,Period Pain Relief,High,Yes,Ambient,5:27,Yes
+816,River Flows in You,Arijit Singh,98,Korean,Period Pain Relief,Low,Yes,Acoustic,8:15,Yes
+817,Believer,Leonard Cohen,54,English,Stress Relief,Medium,No,Devotional,6:00,Yes
+818,Raataan Lambiyan,Adele,113,English,Stress Relief,Low,No,Acoustic,5:37,No
+819,River Flows in You,Arijit Singh,136,Instrumental,Period Pain Relief,Medium,Yes,Ambient,2:06,No
+820,Believer,Adele,160,Korean,Period Pain Relief,Medium,Yes,Acoustic,3:59,Partial
+821,Shape of You,Ludovico Einaudi,157,English,Stress Relief,Low,Yes,Devotional,7:51,Yes
+822,Nuvole Bianche,Lady Gaga,153,Instrumental,Anxiety Relief,High,No,Acoustic,2:24,No
+823,Ocean Eyes,Ludovico Einaudi,86,English,Anxiety Relief,Low,No,Pop,4:54,No
+824,Blinding Lights,Pharrell Williams,115,English,Depression Support,Medium,No,Classical,6:28,Partial
+825,A Sky Full of Stars,Marconi Union,87,Tamil,Stress Relief,High,No,Lo-fi,7:34,No
+826,Tum Hi Ho,Post Malone,154,Tamil,Sleep Aid,High,No,Lo-fi,8:33,Yes
+827,Blinding Lights,Arijit Singh,155,Hindi,Sleep Aid,High,No,Devotional,8:06,Partial
+828,Tum Hi Ho,Lady Gaga,54,Korean,Anxiety Relief,Low,No,Lo-fi,8:33,No
+829,River Flows in You,Post Malone,73,Instrumental,Sleep Aid,High,Yes,Lo-fi,7:09,Yes
+830,Blinding Lights,Pharrell Williams,148,English,Mood Boost,Low,Yes,Lo-fi,7:14,No
+831,Happy,Billie Eilish,135,Korean,Stress Relief,Medium,Yes,Classical,3:11,Yes
+832,Kun Faya Kun,Ludovico Einaudi,71,Instrumental,Depression Support,Medium,No,Lo-fi,8:32,Yes
+833,Believer,Billie Eilish,108,English,Anxiety Relief,Medium,No,Classical,7:53,Yes
+834,A Sky Full of Stars,Post Malone,69,Korean,Stress Relief,Low,No,Classical,8:05,No
+835,Happy,Yiruma,60,Tamil,Period Pain Relief,High,Yes,Lo-fi,8:06,Yes
+836,Hallelujah,Yiruma,151,Tamil,Stress Relief,Low,No,Classical,5:48,Partial
+837,Ocean Eyes,Ludovico Einaudi,76,Instrumental,Mood Boost,High,Yes,Acoustic,2:02,Yes
+838,Shallow,Marconi Union,109,Instrumental,Depression Support,Low,Yes,Acoustic,2:03,Partial
+839,Let It Be,Ed Sheeran,136,Korean,Period Pain Relief,Low,Yes,Classical,5:38,Yes
+840,Hallelujah,Leonard Cohen,110,Instrumental,Stress Relief,Low,Yes,Pop,4:27,No
+841,Believer,A R Rahman,137,Korean,Depression Support,Medium,No,Pop,5:15,Yes
+842,Kun Faya Kun,Leonard Cohen,104,English,Period Pain Relief,Low,Yes,Lo-fi,5:46,No
+843,Raataan Lambiyan,Marconi Union,106,English,Depression Support,Low,Yes,Lo-fi,5:35,No
+844,Tum Hi Ho,Imagine Dragons,65,Instrumental,Sleep Aid,Low,No,Pop,4:40,Yes
+845,Shallow,Imagine Dragons,103,Instrumental,Stress Relief,High,Yes,Ambient,5:22,Partial
+846,Shallow,The Weeknd,107,Korean,Sleep Aid,Low,No,Lo-fi,6:15,Yes
+847,Fix You,Billie Eilish,157,English,Stress Relief,Medium,No,Ambient,2:41,Yes
+848,Raataan Lambiyan,Imagine Dragons,144,Korean,Depression Support,Medium,No,Classical,7:14,Partial
+849,A Sky Full of Stars,Ed Sheeran,69,Korean,Sleep Aid,Low,Yes,Pop,2:39,Partial
+850,Let It Be,Coldplay,155,Instrumental,Sleep Aid,High,No,Pop,6:46,Partial
+851,Weightless,The Weeknd,118,Hindi,Sleep Aid,High,Yes,Devotional,2:06,No
+852,Shallow,Coldplay,120,Korean,Anxiety Relief,High,No,Pop,8:33,No
+853,River Flows in You,Post Malone,145,Hindi,Period Pain Relief,High,Yes,Pop,7:21,Partial
+854,Someone Like You,Adele,167,Hindi,Anxiety Relief,High,No,Acoustic,6:23,Yes
+855,Kun Faya Kun,Arijit Singh,115,English,Depression Support,Low,No,Lo-fi,2:51,No
+856,Ocean Eyes,Leonard Cohen,98,Instrumental,Stress Relief,Medium,No,Lo-fi,2:13,No
+857,Let It Be,A R Rahman,147,Tamil,Stress Relief,High,Yes,Acoustic,7:20,No
+858,Blinding Lights,Marconi Union,79,Instrumental,Depression Support,Medium,No,Ambient,8:39,Partial
+859,Blinding Lights,Lady Gaga,93,Korean,Depression Support,Medium,Yes,Pop,8:50,Partial
+860,Shape of You,A R Rahman,69,Tamil,Sleep Aid,High,Yes,Ambient,4:39,No
+861,Weightless,Post Malone,162,Hindi,Depression Support,Low,Yes,Acoustic,5:59,Partial
+862,Shape of You,Coldplay,59,English,Stress Relief,Medium,No,Pop,6:04,No
+863,Ocean Eyes,Billie Eilish,162,Instrumental,Period Pain Relief,Low,Yes,Acoustic,6:16,Partial
+864,Ocean Eyes,Yiruma,154,Tamil,Mood Boost,Low,No,Classical,3:40,No
+865,Let It Be,Leonard Cohen,70,Tamil,Anxiety Relief,Low,Yes,Pop,4:53,Yes
+866,Sunflower,Imagine Dragons,103,English,Mood Boost,Medium,No,Lo-fi,4:38,No
+867,Weightless,Lady Gaga,106,Instrumental,Anxiety Relief,Medium,Yes,Lo-fi,2:00,Yes
+868,Perfect,The Beatles,115,Instrumental,Stress Relief,Medium,No,Lo-fi,5:56,Partial
+869,Fix You,Lady Gaga,62,Hindi,Anxiety Relief,High,Yes,Ambient,7:30,Yes
+870,Shallow,Arijit Singh,106,Instrumental,Stress Relief,Low,Yes,Pop,8:53,No
+871,Sunflower,Marconi Union,133,Hindi,Sleep Aid,Medium,Yes,Lo-fi,2:10,Yes
+872,Happy,Post Malone,77,Instrumental,Mood Boost,High,Yes,Acoustic,4:06,Yes
+873,Sunflower,Post Malone,58,English,Stress Relief,Medium,Yes,Classical,7:58,Partial
+874,Raataan Lambiyan,Adele,100,Korean,Stress Relief,Medium,No,Pop,3:38,Yes
+875,Hallelujah,Leonard Cohen,137,Instrumental,Period Pain Relief,Low,Yes,Devotional,4:08,Yes
+876,Kun Faya Kun,Lady Gaga,77,Hindi,Anxiety Relief,Medium,Yes,Acoustic,7:11,No
+877,Perfect,Lady Gaga,156,Hindi,Anxiety Relief,High,No,Acoustic,4:26,Yes
+878,Someone Like You,Billie Eilish,119,Korean,Period Pain Relief,Low,Yes,Acoustic,4:13,Yes
+879,Shallow,Ed Sheeran,84,Korean,Anxiety Relief,Low,No,Lo-fi,8:57,Partial
+880,Hallelujah,Ludovico Einaudi,167,English,Anxiety Relief,Low,No,Acoustic,6:46,Partial
+881,Believer,Post Malone,67,Hindi,Depression Support,High,Yes,Classical,6:11,No
+882,Shape of You,The Weeknd,84,English,Anxiety Relief,High,Yes,Lo-fi,8:59,Yes
+883,Hallelujah,Yiruma,170,Korean,Period Pain Relief,Low,Yes,Lo-fi,4:23,Partial
+884,Fix You,Marconi Union,142,Korean,Sleep Aid,High,Yes,Lo-fi,7:05,No
+885,Weightless,Yiruma,77,Tamil,Period Pain Relief,Low,Yes,Devotional,4:38,No
+886,Ocean Eyes,The Beatles,56,Korean,Anxiety Relief,High,No,Devotional,3:21,Partial
+887,Hallelujah,Coldplay,132,Korean,Stress Relief,High,Yes,Acoustic,3:12,No
+888,Tum Hi Ho,Ludovico Einaudi,111,Korean,Sleep Aid,High,Yes,Pop,8:20,Yes
+889,Perfect,Post Malone,156,English,Mood Boost,High,Yes,Ambient,2:12,No
+890,Someone Like You,Yiruma,120,English,Mood Boost,Low,Yes,Acoustic,6:36,No
+891,Fix You,The Beatles,116,Hindi,Stress Relief,High,Yes,Ambient,4:25,Partial
+892,A Sky Full of Stars,Adele,60,Tamil,Sleep Aid,Low,No,Lo-fi,4:22,Yes
+893,Shallow,Ed Sheeran,95,Instrumental,Sleep Aid,Low,No,Lo-fi,2:05,Yes
+894,Nuvole Bianche,The Weeknd,111,Tamil,Anxiety Relief,High,No,Ambient,5:52,Partial
+895,Let It Be,Billie Eilish,101,Instrumental,Stress Relief,Medium,Yes,Classical,3:50,No
+896,Happy,Ludovico Einaudi,160,Korean,Depression Support,High,Yes,Ambient,4:58,Partial
+897,Hallelujah,Adele,157,Tamil,Anxiety Relief,Low,No,Lo-fi,8:08,Partial
+898,Kun Faya Kun,Arijit Singh,98,Tamil,Anxiety Relief,Low,Yes,Devotional,6:09,No
+899,A Sky Full of Stars,Marconi Union,117,English,Mood Boost,Medium,Yes,Acoustic,6:01,No
+900,River Flows in You,The Beatles,129,Korean,Stress Relief,High,Yes,Devotional,5:13,Yes
+901,Happy,The Weeknd,126,Hindi,Sleep Aid,Medium,Yes,Lo-fi,2:24,Partial
+902,Someone Like You,Imagine Dragons,55,Tamil,Anxiety Relief,High,No,Pop,3:37,Yes
+903,Nuvole Bianche,Imagine Dragons,164,English,Anxiety Relief,Medium,Yes,Lo-fi,4:29,No
+904,Raataan Lambiyan,Yiruma,126,English,Anxiety Relief,Low,Yes,Classical,5:01,No
+905,Shallow,Adele,55,English,Stress Relief,High,No,Acoustic,3:45,Yes
+906,Lovely,Lady Gaga,79,Instrumental,Stress Relief,Low,No,Classical,5:55,No
+907,Nuvole Bianche,Arijit Singh,63,Tamil,Stress Relief,High,Yes,Acoustic,2:41,Yes
+908,Perfect,A R Rahman,61,Korean,Sleep Aid,Medium,No,Acoustic,7:03,No
+909,Shape of You,Coldplay,51,Tamil,Sleep Aid,Low,No,Acoustic,3:27,No
+910,Tum Hi Ho,Lady Gaga,54,Hindi,Depression Support,Medium,No,Devotional,3:03,Yes
+911,Nuvole Bianche,Pharrell Williams,166,Tamil,Stress Relief,High,Yes,Classical,4:16,Partial
+912,Shape of You,Adele,166,Instrumental,Stress Relief,Low,No,Pop,3:13,Yes
+913,Hallelujah,Lady Gaga,111,Korean,Mood Boost,Medium,Yes,Lo-fi,4:01,Partial
+914,Believer,Post Malone,114,Tamil,Mood Boost,Medium,Yes,Pop,2:57,Yes
+915,Sunflower,Leonard Cohen,61,Instrumental,Depression Support,Low,No,Acoustic,7:05,No
+916,Someone Like You,Yiruma,99,Korean,Stress Relief,Low,No,Lo-fi,7:10,Yes
+917,Let It Be,The Beatles,93,Instrumental,Depression Support,High,Yes,Classical,4:36,Partial
+918,Sunflower,Adele,116,Korean,Stress Relief,Medium,Yes,Acoustic,8:00,No
+919,Shape of You,Leonard Cohen,69,Korean,Sleep Aid,Low,No,Devotional,5:59,Partial
+920,Weightless,Marconi Union,63,Instrumental,Mood Boost,Low,No,Acoustic,4:01,No
+921,Someone Like You,Yiruma,63,Korean,Period Pain Relief,High,Yes,Devotional,4:07,Partial
+922,Raataan Lambiyan,Pharrell Williams,88,Korean,Anxiety Relief,Low,No,Devotional,5:35,Partial
+923,Ocean Eyes,Pharrell Williams,119,Hindi,Depression Support,Low,Yes,Classical,3:41,Partial
+924,Weightless,Ludovico Einaudi,121,Hindi,Mood Boost,Low,No,Classical,8:54,Yes
+925,Kun Faya Kun,Marconi Union,98,Hindi,Depression Support,High,Yes,Devotional,8:08,Partial
+926,Raataan Lambiyan,Pharrell Williams,147,Tamil,Stress Relief,High,Yes,Devotional,7:41,Partial
+927,A Sky Full of Stars,Arijit Singh,58,Korean,Stress Relief,Medium,Yes,Acoustic,3:49,Yes
+928,Perfect,Post Malone,93,Hindi,Depression Support,High,No,Ambient,5:39,No
+929,Sunflower,Lady Gaga,108,Tamil,Stress Relief,Low,No,Ambient,8:07,Partial
+930,Believer,Lady Gaga,137,Hindi,Mood Boost,Low,Yes,Lo-fi,3:57,Partial
+931,Kun Faya Kun,Lady Gaga,120,Instrumental,Stress Relief,Medium,Yes,Devotional,8:48,Partial
+932,Perfect,Ed Sheeran,87,Instrumental,Depression Support,High,No,Devotional,6:04,Partial
+933,River Flows in You,A R Rahman,115,Tamil,Anxiety Relief,Medium,No,Ambient,7:08,No
+934,Believer,Lady Gaga,168,English,Mood Boost,High,No,Classical,5:16,Yes
+935,Fix You,Adele,113,Tamil,Mood Boost,High,No,Classical,4:39,Yes
+936,Let It Be,Leonard Cohen,170,Instrumental,Stress Relief,Medium,No,Ambient,8:41,No
+937,Tum Hi Ho,A R Rahman,67,Hindi,Depression Support,Medium,Yes,Pop,4:32,No
+938,Happy,Yiruma,73,Instrumental,Mood Boost,Medium,No,Acoustic,5:45,No
+939,Perfect,Ed Sheeran,159,Tamil,Sleep Aid,High,No,Classical,4:36,No
+940,Ocean Eyes,Coldplay,145,Tamil,Anxiety Relief,Medium,No,Lo-fi,7:04,Yes
+941,Nuvole Bianche,Coldplay,158,English,Anxiety Relief,Medium,Yes,Devotional,7:37,Partial
+942,Shallow,A R Rahman,117,Hindi,Period Pain Relief,High,Yes,Lo-fi,3:36,Yes
+943,Tum Hi Ho,Imagine Dragons,97,Tamil,Mood Boost,High,Yes,Lo-fi,2:36,No
+944,Tum Hi Ho,Arijit Singh,109,Instrumental,Depression Support,High,No,Ambient,2:16,Partial
+945,Raataan Lambiyan,Arijit Singh,70,Korean,Sleep Aid,Medium,No,Devotional,7:23,Partial
+946,Hallelujah,The Beatles,155,Instrumental,Anxiety Relief,High,Yes,Devotional,5:17,Partial
+947,Sunflower,Ludovico Einaudi,86,English,Stress Relief,High,Yes,Pop,3:23,No
+948,River Flows in You,The Beatles,98,English,Anxiety Relief,High,Yes,Acoustic,8:13,No
+949,Ocean Eyes,Coldplay,120,Instrumental,Depression Support,Medium,Yes,Devotional,6:02,Yes
+950,Weightless,The Weeknd,94,English,Depression Support,Low,Yes,Devotional,8:35,Partial
+951,Fix You,Imagine Dragons,137,Instrumental,Mood Boost,Medium,No,Acoustic,4:33,Partial
+952,Weightless,The Weeknd,80,Tamil,Depression Support,Medium,Yes,Ambient,4:58,Yes
+953,Fix You,Pharrell Williams,142,Hindi,Stress Relief,Low,No,Pop,6:38,No
+954,Raataan Lambiyan,Imagine Dragons,149,Tamil,Mood Boost,Low,Yes,Classical,3:52,No
+955,Lovely,Marconi Union,64,Instrumental,Period Pain Relief,Medium,Yes,Lo-fi,3:20,Partial
+956,Sunflower,Marconi Union,67,English,Sleep Aid,High,Yes,Devotional,3:46,Partial
+957,Weightless,Leonard Cohen,61,Tamil,Anxiety Relief,Medium,No,Lo-fi,2:09,No
+958,Sunflower,Adele,114,Hindi,Anxiety Relief,Medium,No,Devotional,5:48,Partial
+959,Shape of You,Marconi Union,64,Hindi,Anxiety Relief,Medium,Yes,Devotional,4:14,Yes
+960,Kun Faya Kun,Arijit Singh,106,Korean,Depression Support,Low,Yes,Lo-fi,4:54,Yes
+961,Fix You,Ed Sheeran,65,Hindi,Period Pain Relief,Medium,Yes,Classical,7:25,No
+962,Hallelujah,The Weeknd,164,English,Period Pain Relief,High,Yes,Acoustic,4:44,Partial
+963,Tum Hi Ho,Ed Sheeran,60,Hindi,Mood Boost,Low,Yes,Classical,6:50,Yes
+964,Shallow,Lady Gaga,161,Instrumental,Depression Support,Low,No,Pop,3:27,No
+965,Weightless,Marconi Union,158,Hindi,Mood Boost,Medium,Yes,Acoustic,5:59,Yes
+966,Raataan Lambiyan,Marconi Union,65,Korean,Period Pain Relief,Low,Yes,Lo-fi,4:33,Partial
+967,Happy,A R Rahman,126,Korean,Mood Boost,Low,Yes,Acoustic,2:49,Yes
+968,Lovely,Post Malone,112,Tamil,Anxiety Relief,Low,No,Classical,4:07,Yes
+969,River Flows in You,The Weeknd,69,English,Anxiety Relief,Medium,Yes,Devotional,4:59,Yes
+970,Someone Like You,Arijit Singh,167,Instrumental,Sleep Aid,Medium,Yes,Ambient,7:13,Yes
+971,Sunflower,Coldplay,105,Korean,Depression Support,High,Yes,Lo-fi,5:47,Yes
+972,Blinding Lights,Billie Eilish,118,Korean,Period Pain Relief,Low,Yes,Ambient,4:28,Yes
+973,Let It Be,Yiruma,155,Instrumental,Stress Relief,Medium,No,Acoustic,6:18,No
+974,River Flows in You,Adele,110,Tamil,Sleep Aid,Low,Yes,Devotional,3:55,Yes
+975,Blinding Lights,Billie Eilish,157,English,Period Pain Relief,High,Yes,Classical,5:39,Yes
+976,A Sky Full of Stars,Leonard Cohen,140,English,Stress Relief,Low,No,Devotional,2:49,Partial
+977,Weightless,Pharrell Williams,114,Instrumental,Anxiety Relief,Medium,Yes,Classical,6:01,Partial
+978,River Flows in You,Coldplay,94,Instrumental,Anxiety Relief,High,No,Ambient,5:42,Yes
+979,Raataan Lambiyan,Marconi Union,51,Instrumental,Mood Boost,High,Yes,Pop,7:22,No
+980,Nuvole Bianche,Pharrell Williams,107,Korean,Period Pain Relief,High,Yes,Classical,6:26,No
+981,Weightless,Leonard Cohen,170,Korean,Anxiety Relief,Low,No,Acoustic,5:32,No
+982,Raataan Lambiyan,Lady Gaga,115,English,Depression Support,Low,Yes,Lo-fi,8:51,No
+983,Believer,Lady Gaga,85,Hindi,Depression Support,High,Yes,Classical,7:37,Yes
+984,Kun Faya Kun,Yiruma,114,Instrumental,Depression Support,High,Yes,Classical,8:31,Yes
+985,Shape of You,The Weeknd,145,Instrumental,Anxiety Relief,Medium,Yes,Classical,4:52,Partial
+986,Fix You,Yiruma,113,Tamil,Anxiety Relief,Medium,Yes,Ambient,3:41,Partial
+987,Raataan Lambiyan,The Beatles,111,Tamil,Mood Boost,High,No,Acoustic,2:39,No
+988,Lovely,Ludovico Einaudi,128,Korean,Depression Support,Medium,Yes,Pop,2:14,No
+989,Weightless,Lady Gaga,114,Hindi,Sleep Aid,High,Yes,Lo-fi,4:11,Yes
+990,Let It Be,Lady Gaga,117,Korean,Mood Boost,High,Yes,Lo-fi,6:25,Yes
+991,Someone Like You,Pharrell Williams,134,Korean,Period Pain Relief,High,Yes,Acoustic,6:02,Yes
+992,Happy,Lady Gaga,73,Korean,Stress Relief,Low,Yes,Ambient,3:58,No
+993,Weightless,The Weeknd,89,Korean,Stress Relief,Medium,No,Ambient,7:51,Yes
+994,A Sky Full of Stars,Coldplay,124,Tamil,Mood Boost,Low,Yes,Devotional,7:52,Yes
+995,A Sky Full of Stars,Pharrell Williams,141,Korean,Sleep Aid,High,No,Lo-fi,8:52,Yes
+996,Shape of You,Arijit Singh,75,Hindi,Anxiety Relief,Medium,Yes,Lo-fi,6:04,No
+997,Nuvole Bianche,Post Malone,123,Instrumental,Anxiety Relief,High,No,Ambient,4:34,Yes
+998,Fix You,Leonard Cohen,90,Korean,Period Pain Relief,Medium,Yes,Ambient,7:11,Yes
+999,A Sky Full of Stars,Ludovico Einaudi,98,English,Anxiety Relief,Low,Yes,Classical,7:01,Yes
+1000,River Flows in You,Pharrell Williams,55,Instrumental,Period Pain Relief,Medium,Yes,Classical,6:09,Partial

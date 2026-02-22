@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dataset Analysis Dashboard</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+
+<div class="header">
+    <h1>Dataset Analysis Dashboard</h1>
+    <p class="subtitle">Machine Learning & Data Evaluation System</p>
+</div>
+
+<div class="card">
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <button>Upload Dataset</button>
+    </form>
+</div>
+
+{% if preview %}
+<div class="card">
+    <h2>Dataset Preview</h2>
+    <div class="table-container">
+        {{ preview | safe }}
+    </div>
+</div>
+
+<div class="card">
+    <h2>Select Target Column</h2>
+    <form action="/analyze" method="post" onsubmit="showLoader()">
+        <select name="target">
+        {% for col in columns %}
+            <option value="{{col}}" 
+            {% if selected_target == col %} selected {% endif %}>
+            {{col}}
+            </option>
+        {% endfor %}
+        </select>
+        <button>Run Analysis</button>
+    </form>
+</div>
+{% endif %}
+
+{% if task %}
+<div class="card" id="results">
+    <h2>Detected Task: {{task}}</h2>
+
+    <h3>Model Comparison</h3>
+    <ul>
+    {% for model, score in results.items() %}
+        <li>{{model}} : {{score}}</li>
+    {% endfor %}
+    </ul>
+
+    <h3>Best Model: {{best}}</h3>
+
+    <h3>Evaluation Metrics</h3>
+    <ul>
+    {% for key, value in metrics.items() %}
+        <li>{{key}} : {{value}}</li>
+    {% endfor %}
+    </ul>
+
+    <a href="/download" class="download-btn">Download Report</a>
+</div>
+
+{% if show_confusion %}
+<div class="card">
+    <h3>Confusion Matrix</h3>
+    <img src="/static/confusion.png" width="400">
+</div>
+{% endif %}
+
+{% if show_feature %}
+<div class="card">
+    <h3>Feature Importance</h3>
+    <img src="/static/feature.png" width="600">
+</div>
+{% endif %}
+
+{% endif %}
+
+</div>
+
+<!-- 🔄 Loading Overlay -->
+<div id="loader">
+    <div class="spinner"></div>
+    <p>Analyzing Dataset... Please wait</p>
+</div>
+
+<script>
+function showLoader() {
+    document.getElementById("loader").style.display = "flex";
+}
+
+// Scroll to results automatically
+window.onload = function() {
+    if (document.getElementById("results")) {
+        document.getElementById("results").scrollIntoView({behavior: "smooth"});
+    }
+};
+</script>
+
+</body>
+</html>
