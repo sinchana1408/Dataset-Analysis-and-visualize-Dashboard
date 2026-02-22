@@ -65,4 +65,14 @@ HTML & CSS
 ### ⏳ Loading Screen
 ![Loading Screen](Screenshot%202026-02-22%20180736.png)
 
+### Detected Task
+![Detected Task](Screenshot%202026-02-22%20180752.png)
+
+### 📈 Feature Importance
+![Feature Importance](Screenshot%202026-02-22%20180803.png)
+
+### 📊 Confusion Matrix
+![Confusion Matrix](Screenshot%202026-02-22%20180822.png)
+
+
 
