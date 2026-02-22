@@ -63,6 +63,6 @@ HTML & CSS
 ![Dataset Preview](Screenshot%202026-02-22%20180723.png)
 
 ### ⏳ Loading Screen
-![Loading Screen](Screenshot 2026-02-22 180723.png)
+![Loading Screen](Screenshot%202026-02-22%20180736.png)
 
 
