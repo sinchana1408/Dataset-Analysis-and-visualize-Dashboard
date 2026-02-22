@@ -58,3 +58,7 @@ HTML & CSS
 
 ### Main Dashboard
 ![Project Screenshot](Screenshot%202026-02-22%20180634.png)
+
+### Dataset Preview
+![Project Screenshot](Screenshot 2026-02-22 180723.png)
+
