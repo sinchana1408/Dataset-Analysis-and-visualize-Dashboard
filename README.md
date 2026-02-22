@@ -60,5 +60,5 @@ HTML & CSS
 ![Project Screenshot](Screenshot%202026-02-22%20180634.png)
 
 ### Dataset Preview
-![Dataset Preview](Screenshot 2026-02-22 180723.png)
+![Dataset Preview](Screenshot%202026-02-22%20180723.png)
 
