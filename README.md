@@ -57,4 +57,4 @@ HTML & CSS
 ## 📊 Project Screenshots
 
 ### Main Dashboard
-![Main Dashboard](images/dashboard.png)
+![Dashboard](images/Screenshot%202026-02-22%20180634.png)
